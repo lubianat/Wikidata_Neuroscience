@@ -1,0 +1,324 @@
+,IRI,label
+0,obo.CL_0002319,neural cell
+1,obo.CL_0000540,neuron
+2,obo.CL_0000095,neuron associated cell
+3,obo.CL_0000878,central nervous system macrophage
+4,obo.CL_0000637,chromophil cell of anterior pituitary gland
+5,obo.CL_0000652,pinealocyte
+6,obo.CL_0000706,choroid plexus epithelial cell
+7,obo.CL_0000708,leptomeningeal cell
+8,obo.CL_0009004,retinal cell
+9,obo.CL_0002169,basal cell of olfactory epithelium
+10,obo.CL_0002177,folliculostellate cell of pars distalis of adenohypophysis
+11,obo.CL_0002549,fibroblast of choroid plexus
+12,obo.CL_0002575,central nervous system pericyte
+13,obo.CL_0002576,perineural cell
+14,obo.CL_0002590,smooth muscle cell of the brain vasculature
+15,obo.CL_1000298,mesothelial cell of dura mater
+16,obo.CL_1001602,cerebral cortex endothelial cell
+17,obo.CL_2000044,brain microvascular endothelial cell
+18,obo.CL_2000029,central nervous system neuron
+19,obo.CL_0000029,neuron neural crest derived
+20,obo.CL_0000099,interneuron
+21,obo.CL_0000527,efferent neuron
+22,obo.CL_0000526,afferent neuron
+23,obo.CL_0000102,polymodal neuron
+24,obo.CL_0000104,multipolar neuron
+25,obo.CL_0000105,pseudounipolar neuron
+26,obo.CL_0000106,unipolar neuron
+27,obo.CL_2000032,peripheral nervous system neuron
+28,obo.CL_0000108,cholinergic neuron
+29,obo.CL_0000109,adrenergic neuron
+30,obo.CL_0000110,peptidergic neuron
+31,obo.CL_0000111,peripheral neuron
+32,obo.CL_0000112,columnar neuron
+33,obo.CL_0000116,pioneer neuron
+34,obo.CL_0000379,sensory processing neuron
+35,obo.CL_0000528,nitrergic neuron
+36,obo.CL_0000530,primary neuron
+37,obo.CL_0000535,secondary neuron
+38,obo.CL_0000617,GABAergic neuron
+39,obo.CL_0000678,commissural neuron
+40,obo.CL_0000679,glutamatergic neuron
+41,obo.CL_0000700,dopaminergic neuron
+42,obo.CL_0008028,visual system neuron
+43,obo.CL_0008030,excitatory neuron
+44,obo.CL_0000850,serotonergic neuron
+45,obo.CL_2000031,lateral line ganglion neuron
+46,obo.CL_0008025,noradrenergic neuron
+47,obo.CL_0008029,inhibitory neuron
+48,obo.CL_0010022,cardiac neuron
+49,obo.CL_0011100,galanergic neuron
+50,obo.CL_0011109,hypocretin-secreting neuron
+51,obo.CL_0011110,histaminergic neuron
+52,obo.CL_0011113,spiral ganglion neuron
+53,obo.CL_1000606,kidney nerve cell
+54,obo.CL_1001509,glycinergic neuron
+55,obo.CL_0000123,neuron associated cell (sensu Vertebrata)
+56,obo.CL_0000125,glial cell
+57,obo.CL_0000130,neuron associated cell (sensu Nematoda and Protostomia)
+58,obo.CL_0000129,microglial cell
+59,obo.CL_0000879,meningeal macrophage
+60,obo.CL_0000880,choroid-plexus macrophage
+61,obo.CL_0000881,perivascular macrophage
+62,obo.CL_0000639,basophil cell of pars distalis of adenohypophysis
+63,obo.CL_0000638,acidophil cell of pars distalis of adenohypophysis
+64,obo.CL_0010013,type I pinealocyte
+65,obo.CL_0010014,type II pinealocyte
+66,obo.CL_0000740,retinal ganglion cell
+67,obo.CL_0010009,camera-type eye photoreceptor cell
+68,obo.CL_0000745,retina horizontal cell
+69,obo.CL_0000748,retinal bipolar neuron
+70,obo.CL_0002585,retinal blood vessel endothelial cell
+71,obo.CL_0002586,retinal pigment epithelial cell
+72,obo.CL_0011104,interplexiform cell
+73,obo.CL_0011107,Muller cell
+74,obo.CL_0000853,olfactory epithelial support cell
+75,obo.CL_0002171,globose cell of olfactory epithelium
+76,obo.CL_0002184,basal proper cell of olfactory epithelium
+77,obo.CL_2000043,brain pericyte
+78,obo.CL_0000028,CNS neuron (sensu Nematoda and Protostomia)
+79,obo.CL_0000117,CNS neuron (sensu Vertebrata)
+80,obo.CL_1001611,cerebellar neuron
+81,obo.CL_0010012,cerebral cortex neuron
+82,obo.CL_0011001,spinal cord motor neuron
+83,obo.CL_0011003,magnocellular neurosecretory cell (duplicate class)
+84,obo.CL_1000001,retrotrapezoid nucleus neuron
+85,obo.CL_1001474,medium spiny neuron
+86,obo.CL_1001503,olfactory bulb tufted cell
+87,obo.CL_1001505,parvocellular neurosecretory cell
+88,obo.CL_1001582,lateral ventricle neuron
+89,obo.CL_2000024,spinal cord medial motor column neuron
+90,obo.CL_2000047,brainstem motor neuron
+91,obo.CL_2000097,midbrain dopaminergic neuron
+92,obo.CL_0007011,enteric neuron
+93,obo.CL_0000103,bipolar neuron
+94,obo.CL_0000402,CNS interneuron
+95,obo.CL_0000246,Mauthner neuron
+96,obo.CL_0000397,ganglion interneuron
+97,obo.CL_0000498,inhibitory interneuron
+98,obo.CL_0000534,primary interneuron
+99,obo.CL_0000561,amacrine cell
+100,obo.CL_0008031,cortical interneuron
+101,obo.CL_0000100,motor neuron
+102,obo.CL_0000121,Purkinje cell
+103,obo.CL_0000253,eurydendroid cell
+104,obo.CL_0000381,neurosecretory neuron
+105,obo.CL_0000101,sensory neuron
+106,obo.CL_0000107,autonomic neuron
+107,obo.CL_0009000,sensory neuron of spinal nerve
+108,obo.CL_1000378,type 1 vestibular sensory cell of stato-acoustic epithelium
+109,obo.CL_1000379,type 1 vestibular sensory cell of epithelium of macula of utricle of membranous labyrinth
+110,obo.CL_1000380,type 1 vestibular sensory cell of epithelium of macula of saccule of membranous labyrinth
+111,obo.CL_1000381,type 1 vestibular sensory cell of epithelium of crista of ampulla of semicircular duct of membranous labyrinth
+112,obo.CL_1000382,type 2 vestibular sensory cell of stato-acoustic epithelium
+113,obo.CL_1000383,type 2 vestibular sensory cell of epithelium of macula of utricle of membranous labyrinth
+114,obo.CL_1000384,type 2 vestibular sensory cell of epithelium of macula of saccule of membranous labyrinth
+115,obo.CL_1000385,type 2 vestibular sensory cell of epithelium of crista of ampulla of semicircular duct of membranous labyrinth
+116,obo.CL_0005024,somatomotor neuron
+117,obo.CL_3000003,sympathetic cholinergic neuron
+118,obo.CL_3000004,peripheral sensory neuron
+119,obo.CL_0000531,primary sensory neuron
+120,obo.CL_0000533,primary motor neuron
+121,obo.CL_0000536,secondary motor neuron
+122,obo.CL_0011005,GABAergic interneuron
+123,obo.CL_2000028,cerebellum glutamatergic neuron
+124,obo.CL_0011105,dopamanergic interplexiform cell
+125,obo.CL_0008021,anterior lateral line ganglion neuron
+126,obo.CL_1000245,posterior lateral line ganglion neuron
+127,obo.CL_3000002,sympathetic noradrenergic neuron
+128,obo.CL_0002453,oligodendrocyte precursor cell
+129,obo.CL_0000242,Merkel cell
+130,obo.CL_0000339,glioblast (sensu Vertebrata)
+131,obo.CL_0000516,perineuronal satellite cell
+132,obo.CL_0000124,glial cell (sensu Nematoda and Protostomia)
+133,obo.CL_0000243,glial cell (sensu Vertebrata)
+134,obo.CL_1001579,cerebral cortex glial cell
+135,obo.CL_0010020,cardiac glial cell
+136,obo.CL_1000050,lateral line nerve glial cell
+137,obo.CL_1001581,lateral ventricle glial cell
+138,obo.CL_0000340,glioblast (sensu Nematoda and Protostomia)
+139,obo.CL_0000143,guidepost cell
+140,obo.CL_0002628,immature microglial cell
+141,obo.CL_0002629,mature microglial cell
+142,obo.CL_0000437,gonadtroph
+143,obo.CL_0000476,thyrotroph
+144,obo.CL_0002309,corticotroph
+145,obo.CL_0002310,mammosomatotroph
+146,obo.CL_0002311,mammotroph
+147,obo.CL_0002312,somatotroph
+148,obo.CL_0000573,retinal cone cell
+149,obo.CL_0000604,retinal rod cell
+150,obo.CL_0000749,ON-bipolar cell
+151,obo.CL_0000750,OFF-bipolar cell
+152,obo.CL_0000751,rod bipolar cell
+153,obo.CL_0000752,cone retinal bipolar cell
+154,obo.CL_0011106,GABAnergic interplexiform cell
+155,obo.CL_0000673,Kenyon cell
+156,obo.CL_0000118,basket cell
+157,obo.CL_0000120,granule cell
+158,obo.CL_0000122,stellate neuron
+159,obo.CL_0000555,neuronal brush cell
+160,obo.CL_0000598,pyramidal neuron
+161,obo.CL_0012001,neuron of the forebrain
+162,obo.CL_0000695,Cajal-Retzius cell
+163,obo.CL_0002610,raphe nuclei neuron
+164,obo.CL_0002611,neuron of the dorsal spinal cord
+165,obo.CL_0002612,neuron of the ventral spinal cord
+166,obo.CL_0002614,neuron of the substantia nigra
+167,obo.CL_0000119,cerebellar Golgi cell
+168,obo.CL_0001031,cerebellar granule cell
+169,obo.CL_0010010,cerebellar stellate cell
+170,obo.CL_2000027,cerebellum basket cell
+171,obo.CL_0002609,neuron of cerebral cortex
+172,obo.CL_0011002,lateral motor column neuron
+173,obo.CL_2000048,ventral horn of spinal cord spinal cord motor neuron
+174,obo.CL_0000406,CNS short range interneuron
+175,obo.CL_0000410,CNS long range interneuron
+176,obo.CL_0000691,stellate interneuron
+177,obo.CL_0005000,spinal cord interneuron
+178,obo.CL_1001434,olfactory bulb interneuron
+179,obo.CL_1001569,hippocampal interneuron
+180,obo.CL_0000717,fusimotor neuron
+181,obo.CL_0000741,spinal accessory motor neuron
+182,obo.CL_0015000,cranial motor neuron
+183,obo.CL_0008014,excitatory motor neuron
+184,obo.CL_0005025,visceromotor neuron
+185,obo.CL_0008015,inhibitory motor neuron
+186,obo.CL_0011111,gonadotropin releasing neuron
+187,obo.CL_0011112,magnocellular neurosecretory cell
+188,obo.CL_0000006,neuronal receptor cell
+189,obo.CL_0000199,mechanoreceptor cell
+190,obo.CL_0000206,chemoreceptor cell
+191,obo.CL_0000251,extramedullary cell
+192,obo.CL_1001451,sensory neuron of dorsal root ganglion
+193,obo.CL_1001561,vomeronasal sensory neuron
+194,obo.CL_0011102,parasympathetic neuron
+195,obo.CL_0011103,sympathetic neuron
+196,obo.CL_0008010,cranial somatomotor neuron
+197,obo.CL_0000247,Rohon-Beard neuron
+198,obo.CL_0000532,CAP motoneuron
+199,obo.CL_0005007,Kolmer-Agduhr neuron
+200,obo.CL_0010011,cerebral cortex GABAergic interneuron
+201,obo.CL_0011006,Lugaro cell
+202,obo.CL_0000619,support cell (sensu Nematoda)
+203,obo.CL_0000126,macroglial cell
+204,obo.CL_0002573,Schwann cell
+205,obo.CL_0000681,radial glial cell
+206,obo.CL_0002605,astrocyte of the cerebral cortex
+207,obo.CL_1001580,hippocampus glial cell
+208,obo.CL_1000236,posterior lateral line nerve glial cell
+209,obo.CL_1000239,anterior lateral line nerve glial cell
+210,obo.CL_0008027,rod bipolar cell (sensu Mus)
+211,obo.CL_0000753,type 1 cone bipolar cell (sensu Mus)
+212,obo.CL_0000754,type 2 cone bipolar cell (sensu Mus)
+213,obo.CL_0000755,type 3 cone bipolar cell (sensu Mus)
+214,obo.CL_0000756,type 4 cone bipolar cell (sensu Mus)
+215,obo.CL_0000757,type 5 cone bipolar cell (sensu Mus)
+216,obo.CL_0000758,type 6 cone bipolar cell (sensu Mus)
+217,obo.CL_0000759,type 7 cone bipolar cell (sensu Mus)
+218,obo.CL_0000760,type 8 cone bipolar cell (sensu Mus)
+219,obo.CL_0000761,type 9 cone bipolar cell (sensu Mus)
+220,obo.CL_2000086,neocortex basket cell
+221,obo.CL_2000087,dentate gyrus of hippocampal formation basket cell
+222,obo.CL_2000088,Ammon's horn basket cell
+223,obo.CL_0000626,olfactory granule cell
+224,obo.CL_0001032,cortical granule cell
+225,obo.CL_2000090,dentate gyrus of hippocampal formation stellate cell
+226,obo.CL_2000056,Meynert cell
+227,obo.CL_0002613,striatum neuron
+228,obo.CL_0011000,dorsal horn interneuron
+229,obo.CL_0002608,hippocampal neuron
+230,obo.CL_0000693,neuroglioform cell
+231,obo.CL_2000023,spinal cord ventral column interneuron
+232,obo.CL_1001435,periglomerular cell
+233,obo.CL_1001502,mitral cell
+234,obo.CL_0005023,branchiomotor neuron
+235,obo.CL_0008013,cranial visceromotor neuron
+236,obo.CL_0000198,pain receptor cell
+237,obo.CL_0000202,auditory hair cell
+238,obo.CL_0000203,gravity sensitive cell
+239,obo.CL_0000204,acceleration receptive cell
+240,obo.CL_0000205,thermoreceptor cell
+241,obo.CL_0000209,taste receptor cell
+242,obo.CL_0000210,photoreceptor cell
+243,obo.CL_0000376,humidity receptor cell
+244,obo.CL_1000082,stretch receptor cell
+245,obo.CL_0007017,Stiftchenzellen
+246,obo.CL_0000200,touch receptor cell
+247,obo.CL_0000544,slowly adapting mechanoreceptor cell
+248,obo.CL_0000855,sensory hair cell
+249,obo.CL_0002487,cutaneous/subcutaneous mechanoreceptor cell
+250,obo.CL_0000207,olfactory receptor cell
+251,obo.CL_0000208,pH receptor cell
+252,obo.CL_0008032,rosehip neuron
+253,obo.CL_0000367,sheath cell (sensu Nematoda)
+254,obo.CL_0000389,socket cell (sensu Nematoda)
+255,obo.CL_0000127,astrocyte
+256,obo.CL_0000128,oligodendrocyte
+257,obo.CL_2000005,brain macroglial cell
+258,obo.CL_0000218,myelinating Schwann cell
+259,obo.CL_0002377,immature Schwann cell
+260,obo.CL_0002376,non-myelinating Schwann cell
+261,obo.CL_0013000,forebrain radial glial cell
+262,obo.CL_1000073,spinal cord radial glial cell
+263,obo.CL_0002604,astrocyte of the hippocampus
+264,obo.CL_0001033,hippocampal granule cell
+265,obo.CL_2000089,dentate gyrus of hippocampal formation granule cell
+266,obo.CL_1001571,hippocampal pyramidal neuron
+267,obo.CL_2000049,primary motor cortex pyramidal cell
+268,obo.CL_0000551,unimodal nocireceptor
+269,obo.CL_0000567,polymodal nocireceptor
+270,obo.CL_0000589,cochlear inner hair cell
+271,obo.CL_0000601,outer hair cell
+272,obo.CL_0005008,macular hair cell
+273,obo.CL_0000587,cold sensing thermoreceptor cell
+274,obo.CL_0000591,warmth sensing thermoreceptor cell
+275,obo.CL_0002285,type III taste bud cell
+276,obo.CL_0002286,type II taste cell
+277,obo.CL_0002287,type IV taste receptor cell
+278,obo.CL_0002288,type V taste receptor cell
+279,obo.CL_0002289,type I taste bud cell
+280,obo.CL_0000287,eye photoreceptor cell
+281,obo.CL_0000488,visible light photoreceptor cell
+282,obo.CL_0000489,scotopic photoreceptor cell
+283,obo.CL_0000494,UV sensitive photoreceptor cell
+284,obo.CL_0000602,pressoreceptor cell
+285,obo.CL_0002374,ear hair cell
+286,obo.CL_0000856,neuromast hair cell
+287,obo.CL_1001436,hair-tylotrich neuron
+288,obo.CL_1001437,hair-down neuron
+289,obo.CL_0000847,ciliated olfactory receptor neuron
+290,obo.CL_0000848,microvillous olfactory receptor neuron
+291,obo.CL_0000849,crypt olfactory receptor neuron
+292,obo.CL_0000636,Mueller cell
+293,obo.CL_0000644,Bergmann glial cell
+294,obo.CL_0000645,pituicyte
+295,obo.CL_0000683,ependymoglial cell
+296,obo.CL_0002603,astrocyte of the cerebellum
+297,obo.CL_0012000,astrocyte of the forebrain
+298,obo.CL_0002606,astrocyte of the spinal cord
+299,obo.CL_0002626,immature astrocyte
+300,obo.CL_0002627,mature astrocyte
+301,obo.CL_2000025,spinal cord oligodendrocyte
+302,obo.CL_0000692,terminal Schwann cell
+303,obo.CL_0000687,R1 photoreceptor cell
+304,obo.CL_0000690,R2 photoreceptor cell
+305,obo.CL_0000694,R3 photoreceptor cell
+306,obo.CL_0000697,R4 photoreceptor cell
+307,obo.CL_0000702,R5 photoreceptor cell
+308,obo.CL_0000705,R6 photoreceptor cell
+309,obo.CL_0000707,R7 photoreceptor cell
+310,obo.CL_0000709,R8 photoreceptor cell
+311,obo.CL_2000019,compound eye photoreceptor cell
+312,obo.CL_0000490,photopic photoreceptor cell
+313,obo.CL_0000609,vestibular hair cell
+314,obo.CL_0002450,tether cell
+315,obo.CL_2000034,anterior lateral line neuromast hair cell
+316,obo.CL_2000037,posterior lateral line neuromast hair cell
+317,obo.CL_0002085,tanycyte
+318,obo.CL_0000495,blue sensitive photoreceptor cell
+319,obo.CL_0000496,green sensitive photoreceptor cell
+320,obo.CL_0000497,red sensitive photoreceptor cell
+321,obo.CL_0002069,type II vestibular sensory cell
+322,obo.CL_0002070,type I vestibular sensory cell
