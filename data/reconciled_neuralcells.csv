@@ -1,0 +1,98 @@
+Column,IRI,label,qid
+0,obo.CL_0002319,neural cell,Q66568342
+1,obo.CL_0000540,neuron,Q43054
+5,obo.CL_0000652,pinealocyte,Q3241787
+6,obo.CL_0000706,epithelial cell of choroid plexus,Q66568503
+9,obo.CL_0002169,basal cell of olfactory epithelium,Q66558580
+10,obo.CL_0002177,folliculostellate cell of pars distalis of adenohypophysis,Q66589866
+15,obo.CL_1000298,Mesothelial cell of dura mater,Q66599637
+16,obo.CL_1001602,Cerebral cortex endothelial cell,Q71300698
+20,obo.CL_0000099,interneuron,Q1500732
+21,obo.CL_0000527,motor neuron,Q1133903
+22,obo.CL_0000526,sensory neuron,Q3142126
+24,obo.CL_0000104,multipolar neuron,Q4923862
+25,obo.CL_0000105,pseudounipolar neuron,Q467277
+26,obo.CL_0000106,unipolar neuron,Q1680099
+28,obo.CL_0000108,cholinergic neurons,Q12167532
+29,obo.CL_0000109,adrenergic neurons,Q71262051
+31,obo.CL_0000111,peripheral neuron,Q66591106
+33,obo.CL_0000116,pioneer neuron,Q2469959
+35,obo.CL_0000528,nitrergic neuron,Q66591225
+38,obo.CL_0000617,GABAergic neuron,Q66591221
+40,obo.CL_0000679,glutamatergic neuron,Q71300289
+41,obo.CL_0000700,dopaminergic neuron,Q66591220
+44,obo.CL_0000850,serotonergic neurons,Q70220966
+56,obo.CL_0000125,glia,Q177105
+58,obo.CL_0000129,microglia,Q1622829
+62,obo.CL_0000639,basophil cell of pars distalis of adenohypophysis,Q66589858
+63,obo.CL_0000638,acidophil cell of pars distalis of adenohypophysis,Q66589857
+68,obo.CL_0000745,retina horizontal cell,Q1628177
+71,obo.CL_0002586,retinal pigment epithelial cell,Q66572893
+73,obo.CL_0011107,Müller glia,Q735343
+75,obo.CL_0002171,globose cell of olfactory epithelium,Q66563543
+76,obo.CL_0002184,basal proper cell of olfactory epithelium,Q66558582
+85,obo.CL_1001474,Medium spiny neuron,Q17152690
+87,obo.CL_1001505,Parvocellular neurosecretory cell,Q7141374
+93,obo.CL_0000103,bipolar neuron,Q690588
+97,obo.CL_0000498,inhibitory interneuron,Q66591213
+99,obo.CL_0000561,amacrine cell,Q66563442
+101,obo.CL_0000100,motor neuron,Q1133903
+102,obo.CL_0000121,Purkinje cell,Q1570272
+105,obo.CL_0000101,sensory neuron,Q3142126
+106,obo.CL_0000107,autonomic neuron,Q88402859
+108,obo.CL_1000378,Type 1 vestibular sensory cell of stato-acoustic epithelium,Q66602605
+109,obo.CL_1000379,Type 1 vestibular sensory cell of epithelium of macula of utricle of membranous labyrinth,Q66602606
+110,obo.CL_1000380,Type 1 vestibular sensory cell of epithelium of macula of saccule of membranous labyrinth,Q66602607
+111,obo.CL_1000381,Type 1 vestibular sensory cell of epithelium of crista of ampulla of semicircular duct of membranous labyrinth,Q66602608
+112,obo.CL_1000382,Type 2 vestibular sensory cell of stato-acoustic epithelium,Q66602609
+113,obo.CL_1000383,Type 2 vestibular sensory cell of epithelium of macula of utricle of membranous labyrinth,Q66602610
+114,obo.CL_1000384,Type 2 vestibular sensory cell of epithelium of macula of saccule of membranous labyrinth,Q66602611
+115,obo.CL_1000385,Type 2 vestibular sensory cell of epithelium of crista of ampulla of semicircular duct of membranous labyrinth,Q66602613
+120,obo.CL_0000533,primary motor neuron,Q66590265
+121,obo.CL_0000536,secondary motor neuron,Q66590266
+122,obo.CL_0011005,GABAergic neuron,Q66591221
+128,obo.CL_0002453,oligodendrocyte precursor cell,Q71300510
+129,obo.CL_0000242,Merkel cell,Q1570264
+131,obo.CL_0000516,perineuronal satellite cells,Q70068158
+139,obo.CL_0000143,Guidepost cells,Q5615511
+143,obo.CL_0000476,thyrotroph,Q66589863
+144,obo.CL_0002309,corticotroph,Q66589862
+145,obo.CL_0002310,mammosomatotroph,Q66589861
+146,obo.CL_0002311,mammotroph,Q66589860
+147,obo.CL_0002312,somatotroph,Q66589859
+148,obo.CL_0000573,cone cell,Q147298
+149,obo.CL_0000604,rod cell,Q505544
+152,obo.CL_0000751,rod bipolar cell,Q66563426
+155,obo.CL_0000673,Kenyon cell,Q668917
+156,obo.CL_0000118,Basket cell,Q301613
+157,obo.CL_0000120,granule cell,Q1777753
+162,obo.CL_0000695,Cajal–Retzius cell,Q2299284
+167,obo.CL_0000119,cerebellar Golgi cells,Q83828950
+168,obo.CL_0001031,cerebellar granule cell,Q5064084
+172,obo.CL_0011002,Lateral motor column neuron,Q6495638
+179,obo.CL_1001569,hippocampal interneuron,Q66591214
+187,obo.CL_0011112,Magnocellular neurosecretory cell,Q6731828
+190,obo.CL_0000206,chemoreceptor,Q1069641
+200,obo.CL_0010011,cerebral cortex GABAergic interneuron,Q71292831
+201,obo.CL_0011006,Lugaro cell,Q17131064
+203,obo.CL_0000126,macroglial cell,Q66544357
+204,obo.CL_0002573,Schwann cell,Q465621
+205,obo.CL_0000681,radial glial cell,Q4387286
+206,obo.CL_0002605,Astrocyte of the human cerebral cortex,Q71300383
+232,obo.CL_1001435,Periglomerular cell,Q16910948
+233,obo.CL_1001502,olfactory bulb mitral cell,Q1939737
+237,obo.CL_0000202,auditory hair cell,Q29642065
+242,obo.CL_0000210,photoreceptor cell,Q748049
+250,obo.CL_0000207,olfactory receptor cell,Q1515860
+252,obo.CL_0008032,rosehip neuron,Q56427015
+255,obo.CL_0000127,astrocyte,Q502961
+256,obo.CL_0000128,oligodendrocyte,Q916698
+270,obo.CL_0000589,cochlear inner hair cell,Q66558658
+271,obo.CL_0000601,outer auditory hair cell,Q29642077
+275,obo.CL_0002285,type iii taste bud cell,Q66563604
+276,obo.CL_0002286,type ii taste bud cell,Q66558679
+279,obo.CL_0002289,type i taste bud cell,Q66558641
+294,obo.CL_0000645,pituicyte,Q2231040
+295,obo.CL_0000683,ependymoglial cells,Q70203947
+313,obo.CL_0000609,vestibular hair cell,Q29654328
+317,obo.CL_0002085,tanycyte,Q1419042
