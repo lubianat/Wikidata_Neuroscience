@@ -1,0 +1,1250 @@
+Column,doid,label,disorder_qid,subclass_of,subclass_of_qid
+0,obo.DOID_863,neurological disorder,Q3339235,disease of anatomical entity,Q18557436
+1,obo.DOID_0050155,sensory system disease,Q18553219,neurological disorder,Q3339235
+2,obo.DOID_331,central nervous system disease,Q5062122,neurological disorder,Q3339235
+3,obo.DOID_0060695,hyperekplexia,Q1781802,neurological disorder,Q3339235
+4,obo.DOID_0090115,spinocerebellar ataxia type 1 with axonal neuropathy,Q30989322,neurological disorder,Q3339235
+5,obo.DOID_0090124,neurogenic arthrogryposis multiplex congenita,Q708165,neurological disorder,Q3339235
+6,obo.DOID_0111580,Behr syndrome,Q814547,neurological disorder,Q3339235
+7,obo.DOID_574,peripheral neuropathy,Q945238,neurological disorder,Q3339235
+8,obo.DOID_12697,locked-in syndrome,Q794457,neurological disorder,Q3339235
+9,obo.DOID_14464,neuroleptic malignant syndrome,Q1424956,neurological disorder,Q3339235
+10,obo.DOID_3602,Toxic encephalopathy,Q7830379,neurological disorder,Q3339235
+11,obo.DOID_4969,Gerstmann syndrome,Q1515119,neurological disorder,Q3339235
+12,obo.DOID_862,diplegia of upper limb,Q18557980,neurological disorder,Q3339235
+13,obo.DOID_2742,ear disease,Q5325633,sensory system disease,Q18553219
+14,obo.DOID_5614,eye disease,Q3041498,sensory system disease,Q18553219
+15,obo.DOID_0050425,restless legs syndrome,Q916280,central nervous system disease,Q5062122
+17,obo.DOID_936,brain diseases,Q576349,central nervous system disease,Q5062122
+19,obo.DOID_10095,intracranial abscess,Q18553780,central nervous system disease,Q5062122
+21,obo.DOID_10554,meningoencephalitis,Q2346415,central nervous system disease,Q5062122
+22,obo.DOID_319,spinal cord disease,Q2303951,central nervous system disease,Q5062122
+23,obo.DOID_11387,epidural abscess,Q18353735,central nervous system disease,Q5062122
+24,obo.DOID_11389,subdural empyema,Q3724806,central nervous system disease,Q5062122
+25,obo.DOID_12835,tetraplegi,Q944758,central nervous system disease,Q5062122
+26,obo.DOID_607,paraplegia,Q1049655,central nervous system disease,Q5062122
+27,obo.DOID_3230,high pressure neurological syndrome,Q955638,central nervous system disease,Q5062122
+28,obo.DOID_640,encephalomyelitis,Q1634879,central nervous system disease,Q5062122
+29,obo.DOID_8117,neuronitis,Q17157137,central nervous system disease,Q5062122
+30,obo.DOID_0060696,hyperekplexia 1,Q28024514,hyperekplexia,Q1781802
+31,obo.DOID_0060697,hyperekplexia 2,Q28024515,hyperekplexia,Q1781802
+32,obo.DOID_0060698,hyperekplexia 3,Q28024516,hyperekplexia,Q1781802
+34,obo.DOID_870,peripheral neuropathy,Q945238,peripheral neuropathy,Q945238
+35,obo.DOID_11465,autonomic nervous system disease,Q18554088,peripheral neuropathy,Q945238
+36,obo.DOID_3690,brachial plexus neuropathy,Q18556023,peripheral neuropathy,Q945238
+37,obo.DOID_1389,polyneuropathy,Q1502312,peripheral neuropathy,Q945238
+38,obo.DOID_11577,Cauda equina syndrome,Q1051436,peripheral neuropathy,Q945238
+39,obo.DOID_573,nerve compression syndrome,Q1978084,peripheral neuropathy,Q945238
+40,obo.DOID_13913,lumbosacral plexus lesion,Q18554629,peripheral neuropathy,Q945238
+41,obo.DOID_6925,peroneal nerve paralysis,Q18557404,peripheral neuropathy,Q945238
+42,obo.DOID_0050563,nonsyndromic deafness,Q9079046,ear disease,Q5325633
+43,obo.DOID_2952,inner ear disease,Q18555242,ear disease,Q5325633
+44,obo.DOID_10261,discharging ear,Q3357695,ear disease,Q5325633
+45,obo.DOID_5100,middle ear disease,Q18556619,ear disease,Q5325633
+46,obo.DOID_11129,dislocation of ear ossicle,Q18554011,ear disease,Q5325633
+47,obo.DOID_11235,adhesive otitis media,Q18554043,ear disease,Q5325633
+48,obo.DOID_11783,necrosis of ear ossicle,Q18554172,ear disease,Q5325633
+49,obo.DOID_2889,retrocochlear disease,Q18555231,ear disease,Q5325633
+50,obo.DOID_379,external ear disease,Q18556075,ear disease,Q5325633
+51,obo.DOID_10124,corneal disease,Q18553785,eye disease,Q3041498
+52,obo.DOID_9835,refractive error,Q470427,eye disease,Q3041498
+53,obo.DOID_5679,retinal disease,Q550455,eye disease,Q3041498
+54,obo.DOID_1686,glaucoma,Q159701,eye disease,Q3041498
+56,obo.DOID_0050633,ocular albinism,Q2831905,eye disease,Q3041498
+57,obo.DOID_8501,fundus dystrophy,Q18557956,eye disease,Q3041498
+58,obo.DOID_0060216,Cogan syndrome,Q1106923,eye disease,Q3041498
+59,obo.DOID_0060217,Cogan-Reese syndrome,Q18553732,eye disease,Q3041498
+60,obo.DOID_0060260,ptosis,Q622427,eye disease,Q3041498
+61,obo.DOID_9720,vitreous disease,Q18558199,eye disease,Q3041498
+63,obo.DOID_0060680,Pigment dispersion syndrome,Q2753827,eye disease,Q3041498
+65,obo.DOID_10629,microphthalmia,Q1557239,eye disease,Q3041498
+66,obo.DOID_14686,Axenfeld-Rieger syndrome,Q474994,eye disease,Q3041498
+67,obo.DOID_110,lens disease,Q18553990,eye disease,Q3041498
+68,obo.DOID_0111228,helicoid peripapillary chorioretinal degeneration,Q55780357,eye disease,Q3041498
+69,obo.DOID_0111541,pigmented paravenous retinochoroidal atrophy,Q55781371,eye disease,Q3041498
+70,obo.DOID_9799,eye degenerative disease,Q18558225,eye disease,Q3041498
+71,obo.DOID_0111648,ectopia lentis et pupillae,Q55998586,eye disease,Q3041498
+72,obo.DOID_10034,eye accommodation disease,Q18553766,eye disease,Q3041498
+73,obo.DOID_1400,lacrimal apparatus disease,Q18554657,eye disease,Q3041498
+74,obo.DOID_10176,neuroretinitis,Q18553800,eye disease,Q3041498
+75,obo.DOID_10376,amblyopia,Q207855,eye disease,Q3041498
+76,obo.DOID_4251,conjunctival disease,Q18556249,eye disease,Q3041498
+77,obo.DOID_11343,scleral disease,Q18554064,eye disease,Q3041498
+78,obo.DOID_238,pupil disorder,Q18555067,eye disease,Q3041498
+79,obo.DOID_9368,keratoconjunctivitis,Q1623006,eye disease,Q3041498
+80,obo.DOID_790,ocular hypotension,Q18557760,eye disease,Q3041498
+81,obo.DOID_1393,visual pathway disease,Q18554635,eye disease,Q3041498
+82,obo.DOID_12270,coloboma,Q1462309,eye disease,Q3041498
+83,obo.DOID_1242,globe disease,Q18554319,eye disease,Q3041498
+84,obo.DOID_8886,chorioretinitis,Q1402851,eye disease,Q3041498
+85,obo.DOID_3480,uveal disease,Q18555950,eye disease,Q3041498
+86,obo.DOID_1432,blindness,Q10874,eye disease,Q3041498
+87,obo.DOID_9282,ocular hypertension,Q9294051,eye disease,Q3041498
+88,obo.DOID_9335,scotoma,Q950591,eye disease,Q3041498
+89,obo.DOID_9370,exophthalmos,Q684383,eye disease,Q3041498
+90,obo.DOID_9722,ophthalmia nodosa,Q7098081,eye disease,Q3041498
+91,obo.DOID_0050635,alternating hemiplegia of childhood,Q2632848,hemiplegia,Q304497
+92,obo.DOID_649,transmissible spongiform encephalopathy,Q703961,brain diseases,Q576349
+93,obo.DOID_679,basal ganglia disease,Q4866181,brain diseases,Q576349
+94,obo.DOID_1969,cerebral palsy,Q210427,brain diseases,Q576349
+95,obo.DOID_0050682,Athabaskan brainstem dysgenesis syndrome,Q18553396,brain diseases,Q576349
+96,obo.DOID_1826,epilepsy,Q41571,brain diseases,Q576349
+97,obo.DOID_0050850,diabetic encephalopathy,Q18553513,brain diseases,Q576349
+98,obo.DOID_0060263,porencephaly,Q492129,brain diseases,Q576349
+99,obo.DOID_2786,cerebellar disease,Q564123,brain diseases,Q576349
+100,obo.DOID_0080539,PEHO syndrome,Q4357091,brain diseases,Q576349
+101,obo.DOID_0090125,COL4A1-related familial vascular leukoencephalopathy,Q30989685,brain diseases,Q576349
+102,obo.DOID_0090130,cortical dysplasia-focal epilepsy syndrome,Q30989483,brain diseases,Q576349
+104,obo.DOID_480,movement disorder,Q2608695,brain diseases,Q576349
+105,obo.DOID_0111262,infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly,Q55784025,brain diseases,Q576349
+107,obo.DOID_6364,migraine disorder,Q133823,brain diseases,Q576349
+108,obo.DOID_9588,encephalitis,Q199615,brain diseases,Q576349
+109,obo.DOID_1443,cerebral degeneration,Q1620193,brain diseases,Q576349
+110,obo.DOID_11457,brain compression,Q4411766,brain diseases,Q576349
+112,obo.DOID_13413,hepatic encephalopathy,Q642548,brain diseases,Q576349
+113,obo.DOID_12680,pseudobulbar palsy,Q1815985,brain diseases,Q576349
+114,obo.DOID_2034,encephalomalacia,Q947813,brain diseases,Q576349
+115,obo.DOID_1607,Hypoglycemic coma,Q7287539,brain diseases,Q576349
+116,obo.DOID_1931,Hypothalamic disease,Q5961220,brain diseases,Q576349
+117,obo.DOID_2382,kernicterus,Q861845,brain diseases,Q576349
+118,obo.DOID_2384,Wernicke encephalopathy,Q1573307,brain diseases,Q576349
+119,obo.DOID_2479,central nervous system origin vertigo,Q18555094,brain diseases,Q576349
+120,obo.DOID_3431,cerebritis,Q5064108,brain diseases,Q576349
+121,obo.DOID_4267,akinetic mutism,Q418522,brain diseases,Q576349
+122,obo.DOID_4662,thalamic disease,Q18556419,brain diseases,Q576349
+123,obo.DOID_4723,intracranial hypotension,Q16831900,brain diseases,Q576349
+124,obo.DOID_4724,cerebral edema,Q979168,brain diseases,Q576349
+127,obo.DOID_0050831,familial encephalopathy with neuroserpin inclusion bodies,Q5432935,neurodegeneration,Q1755122
+128,obo.DOID_0050883,infantile cerebellar-retinal degeneration,Q18553533,neurodegeneration,Q1755122
+129,obo.DOID_0050890,synucleinopathy,Q16963368,neurodegeneration,Q1755122
+130,obo.DOID_3213,demyelinating disease,Q1186703,neurodegeneration,Q1755122
+132,obo.DOID_0060491,SPOAN syndrome,Q10376449,neurodegeneration,Q1755122
+133,obo.DOID_0070352,"neurodegeneration, childhood-onset, stress-induced, with variable ataxia and seizures",Q66684593,neurodegeneration,Q1755122
+137,obo.DOID_0111246,Lytico-bodig disease,Q3508653,neurodegeneration,Q1755122
+138,obo.DOID_231,motor neuron disease,Q3221083,neurodegeneration,Q1755122
+139,obo.DOID_680,tauopathy,Q2397106,neurodegeneration,Q1755122
+140,obo.DOID_11870,Pick disease,Q18576,neurodegeneration,Q1755122
+141,obo.DOID_12707,myoclonic cerebellar dyssynergia,Q3961686,neurodegeneration,Q1755122
+142,obo.DOID_12858,Huntington disease,Q190564,neurodegeneration,Q1755122
+143,obo.DOID_13548,secondary parkinsonism,Q18554542,neurodegeneration,Q1755122
+145,obo.DOID_3688,plexopathy,Q7204901,neurodegeneration,Q1755122
+146,obo.DOID_9277,primary cerebellar degeneration,Q18558090,neurodegeneration,Q1755122
+147,obo.DOID_11608,fungal meningitis,Q5509169,meningitis,Q48143
+148,obo.DOID_9470,bacterial meningitis,Q3678510,meningitis,Q48143
+149,obo.DOID_10310,viral meningitis,Q3301664,meningitis,Q48143
+150,obo.DOID_10341,chronic meningitis,Q18553843,meningitis,Q48143
+151,obo.DOID_12156,arachnoiditis,Q2669284,meningitis,Q48143
+152,obo.DOID_12157,aseptic meningitis,Q4804182,meningitis,Q48143
+153,obo.DOID_1089,tethered spinal cord syndrome,Q386346,spinal cord disease,Q2303951
+154,obo.DOID_320,vascular myelopathy,Q17232521,spinal cord disease,Q2303951
+155,obo.DOID_322,myelitis,Q551085,spinal cord disease,Q2303951
+156,obo.DOID_327,syringomyelia,Q1112977,spinal cord disease,Q2303951
+158,obo.DOID_606,Brown-Séquard syndrome,Q991037,paraplegia,Q1049655
+159,obo.DOID_639,acute disseminated encephalomyelitis,Q424242,encephalomyelitis,Q1634879
+160,obo.DOID_0050548,hereditary sensory and autonomic neuropathy,Q3702898,peripheral neuropathy,Q945238
+161,obo.DOID_440,neuromuscular disease,Q2246789,peripheral neuropathy,Q945238
+162,obo.DOID_0060054,autonomic peripheral neuropathy,Q18553623,peripheral neuropathy,Q945238
+163,obo.DOID_0060843,hereditary neuropathy with liability to pressure palsies,Q1609737,peripheral neuropathy,Q945238
+164,obo.DOID_7319,axonal neuropathy,Q18557549,peripheral neuropathy,Q945238
+166,obo.DOID_0111741,"Deafness, X-linked 5",Q70210939,peripheral neuropathy,Q945238
+167,obo.DOID_1188,mononeuropathy,Q18554205,peripheral neuropathy,Q945238
+168,obo.DOID_1195,ischemic neuropathy,Q18554214,peripheral neuropathy,Q945238
+169,obo.DOID_9743,diabetic neuropathy,Q2046550,peripheral neuropathy,Q945238
+170,obo.DOID_5656,cranial nerve disease,Q5182126,peripheral neuropathy,Q945238
+171,obo.DOID_2537,inflammatory and toxic neuropathy,Q18555110,peripheral neuropathy,Q945238
+172,obo.DOID_1803,neuritis,Q2307256,peripheral neuropathy,Q945238
+174,obo.DOID_2491,sensory peripheral neuropathy,Q18555098,peripheral neuropathy,Q945238
+175,obo.DOID_9240,erythromelalgia,Q524353,peripheral neuropathy,Q945238
+176,obo.DOID_0060731,congenital central hypoventilation syndrome,Q979129,autonomic nervous system disease,Q18554088
+177,obo.DOID_0111537,Paroxysmal extreme pain disorder,Q7139588,autonomic nervous system disease,Q18554088
+178,obo.DOID_11504,autonomic neuropathy,Q18554095,autonomic nervous system disease,Q18554088
+179,obo.DOID_11488,idiopathic peripheral autonomic neuropathy,Q18554091,autonomic nervous system disease,Q18554088
+180,obo.DOID_11599,Frey syndrome,Q1431371,autonomic nervous system disease,Q18554088
+181,obo.DOID_3223,complex regional pain syndrome,Q1066311,autonomic nervous system disease,Q18554088
+182,obo.DOID_10383,amyotrophic neuralgia,Q18553855,brachial plexus neuropathy,Q18556023
+184,obo.DOID_8443,brachial plexus lesion,Q2517861,brachial plexus neuropathy,Q18556023
+185,obo.DOID_10593,idiopathic progressive polyneuropathy,Q18553894,polyneuropathy,Q1502312
+186,obo.DOID_13649,polyneuropathy in collagen vascular disease,Q18554568,polyneuropathy,Q1502312
+187,obo.DOID_4308,polyradiculoneuropathy,Q3395796,polyneuropathy,Q1502312
+188,obo.DOID_5214,demyelinating polyneuropathy,Q18556682,polyneuropathy,Q1502312
+189,obo.DOID_5221,chronic polyneuropathy,Q18556683,polyneuropathy,Q1502312
+190,obo.DOID_12169,carpal tunnel syndrome,Q332293,nerve compression syndrome,Q1978084
+193,obo.DOID_0050566,X-linked nonsyndromic deafness,Q18553311,nonsyndromic deafness,Q9079046
+194,obo.DOID_0070310,drug-induced hearing loss,Q60195183,nonsyndromic deafness,Q9079046
+196,obo.DOID_3426,vestibular disease,Q16678483,inner ear disease,Q18555242
+197,obo.DOID_0080193,Superior canal dehiscence,Q685200,inner ear disease,Q18555242
+198,obo.DOID_10003,sensorineural hearing loss,Q928697,inner ear disease,Q18555242
+200,obo.DOID_566,labyrinthine dysfunction,Q18556927,inner ear disease,Q18555242
+202,obo.DOID_2951,motion sickness,Q309067,inner ear disease,Q18555242
+203,obo.DOID_5463,cochlear disease,Q18556797,inner ear disease,Q18555242
+205,obo.DOID_5782,tympanic membrane disease,Q18557008,middle ear disease,Q18556619
+206,obo.DOID_7439,otic polyp,Q7108724,middle ear disease,Q18556619
+207,obo.DOID_12657,vestibulocochlear nerve disease,Q18554357,retrocochlear disease,Q18555231
+208,obo.DOID_9463,otitis externa,Q680873,external ear disease,Q18556075
+210,obo.DOID_0060252,sclerocornea,Q7434154,corneal disease,Q18553785
+212,obo.DOID_0060305,megalocornea,Q4286595,corneal disease,Q18553785
+213,obo.DOID_2566,corneal dystrophy,Q2044949,corneal disease,Q18553785
+214,obo.DOID_0060673,Peters anomaly,Q28024492,corneal disease,Q18553785
+215,obo.DOID_4677,keratitis,Q757838,corneal disease,Q18553785
+216,obo.DOID_0111548,ring dermoid of cornea,Q55781456,corneal disease,Q18553785
+217,obo.DOID_10126,keratoconus,Q611984,corneal disease,Q18553785
+218,obo.DOID_11028,pseudopterygium,Q2115771,corneal disease,Q18553785
+219,obo.DOID_11030,corneal edema,Q18553993,corneal disease,Q18553785
+220,obo.DOID_11547,corneal deposit,Q18554103,corneal disease,Q18553785
+221,obo.DOID_11552,Bowman's membrane folds or rupture,Q18554105,corneal disease,Q18553785
+222,obo.DOID_12753,corneal staphyloma,Q18554370,corneal disease,Q18553785
+223,obo.DOID_13447,corneal argyrosis,Q18554517,corneal disease,Q18553785
+224,obo.DOID_1436,corneal ectasia,Q18554748,corneal disease,Q18553785
+225,obo.DOID_2283,keratopathy,Q18971540,corneal disease,Q18553785
+226,obo.DOID_0050304,aniseikonia,Q548913,refractive error,Q470427
+227,obo.DOID_11782,astigmatism,Q177895,refractive error,Q470427
+228,obo.DOID_11830,myopia,Q168403,refractive error,Q470427
+229,obo.DOID_11850,transient refractive change,Q18554196,refractive error,Q470427
+230,obo.DOID_12273,anisometropia,Q247978,refractive error,Q470427
+231,obo.DOID_9834,hyperopia,Q177254,refractive error,Q470427
+232,obo.DOID_0050335,bradyopsia,Q10434599,retinal disease,Q550455
+233,obo.DOID_2462,retinal vascular disease,Q12195125,retinal disease,Q550455
+235,obo.DOID_3612,retinitis,Q630552,retinal disease,Q550455
+236,obo.DOID_0090059,enhanced S-cone syndrome,Q30989221,retinal disease,Q550455
+238,obo.DOID_0111677,familial benign flecked retina,Q55781894,retinal disease,Q550455
+239,obo.DOID_11086,chorioretinal scar,Q18554003,retinal disease,Q550455
+240,obo.DOID_11561,hypertensive retinopathy,Q425811,retinal disease,Q550455
+241,obo.DOID_8499,night blindness,Q7758678,retinal disease,Q550455
+242,obo.DOID_5327,retinal detachment,Q625164,retinal disease,Q550455
+243,obo.DOID_13025,retinopathy of prematurity,Q1423087,retinal disease,Q550455
+244,obo.DOID_13401,angioid streaks,Q4763261,retinal disease,Q550455
+246,obo.DOID_6929,retinal edema,Q18557405,retinal disease,Q550455
+247,obo.DOID_5678,nerve fibre bundle defect,Q18556935,visual pathway disease,Q18554635
+248,obo.DOID_7633,macular holes,Q1427032,retinal disease,Q550455
+249,obo.DOID_9719,autosomal dominant neovascular inflammatory vitreoretinopathy,Q55345685,retinal disease,Q550455
+250,obo.DOID_0050593,primary congenital glaucoma,Q3108582,glaucoma,Q159701
+251,obo.DOID_1067,open-angle glaucoma,Q3108586,glaucoma,Q159701
+252,obo.DOID_11148,hypersecretion glaucoma,Q18554016,glaucoma,Q159701
+253,obo.DOID_11149,aqueous misdirection,Q18554017,glaucoma,Q159701
+254,obo.DOID_12571,phacogenic glaucoma,Q18554346,glaucoma,Q159701
+255,obo.DOID_13060,traumatic glaucoma,Q18554423,glaucoma,Q159701
+256,obo.DOID_9283,borderline glaucoma,Q18558092,glaucoma,Q159701
+257,obo.DOID_13550,angle-closure glaucoma,Q18554545,glaucoma,Q159701
+258,obo.DOID_1687,neovascular glaucoma,Q7885682,glaucoma,Q159701
+259,obo.DOID_9946,steroid-induced glaucoma,Q3771927,glaucoma,Q159701
+260,obo.DOID_0090100,ocular albinism with sensorineural deafness,Q50357711,ocular albinism,Q2831905
+261,obo.DOID_0050683,Bothnia retinal dystrophy,Q18553397,fundus dystrophy,Q18557956
+262,obo.DOID_8500,hereditary retinal dystrophy,Q18557955,fundus dystrophy,Q18557956
+263,obo.DOID_11105,fundus albipunctatus,Q16570127,fundus dystrophy,Q18557956
+264,obo.DOID_13227,retinal dystrophies primarily involving Bruch's membrane,Q18554471,fundus dystrophy,Q18557956
+265,obo.DOID_14251,vitreoretinal dystrophy,Q18554722,fundus dystrophy,Q18557956
+266,obo.DOID_14252,dystrophies primarily involving the retinal pigment epithelium,Q18554723,fundus dystrophy,Q18557956
+267,obo.DOID_14253,retinal dystrophy in systemic or cerebroretinal lipidoses,Q18554724,fundus dystrophy,Q18557956
+268,obo.DOID_0060261,congenital ptosis,Q18966140,ptosis,Q622427
+269,obo.DOID_0060282,persistent hyperplastic primary vitreous,Q7170412,vitreous disease,Q18558199
+270,obo.DOID_11816,vitreous syneresis,Q18554183,vitreous disease,Q18558199
+271,obo.DOID_9723,vitreous abscess,Q18558200,vitreous disease,Q18558199
+272,obo.DOID_9726,vitreous detachment,Q379299,vitreous disease,Q18558199
+278,obo.DOID_0080611,anterior segment dysgenesis 6,Q55785185,Anterior segment dysgenesis,Q65214555
+279,obo.DOID_0080612,anterior segment dysgenesis 7,Q55998736,Anterior segment dysgenesis,Q65214555
+280,obo.DOID_0080613,anterior segment dysgenesis 8,Q55785186,Anterior segment dysgenesis,Q65214555
+282,obo.DOID_0080634,microphthalmia,Q1557239,microphthalmia,Q1557239
+283,obo.DOID_0080635,colobomatous optic disc-macular atrophy-chorioretinopathy syndrome,Q55998547,microphthalmia,Q1557239
+287,obo.DOID_0110122,Axenfeld-Rieger syndrome type 3,Q27164456,Axenfeld-Rieger syndrome,Q474994
+288,obo.DOID_83,cataract,Q127724,lens disease,Q18553990
+289,obo.DOID_0111148,isolated ectopia lentis,Q50349814,lens disease,Q18553990
+290,obo.DOID_11364,lens subluxation,Q18554068,lens disease,Q18553990
+291,obo.DOID_11367,congenital aphakia,Q18554069,lens disease,Q18553990
+292,obo.DOID_8466,retinal degeneration,Q3043268,eye degenerative disease,Q18558225
+293,obo.DOID_0111570,snowflake vitreoretinal degeneration,Q55345684,eye degenerative disease,Q18558225
+294,obo.DOID_10139,conjunctival degeneration,Q18553789,eye degenerative disease,Q18558225
+295,obo.DOID_1237,corneal degeneration,Q18554311,eye degenerative disease,Q18558225
+296,obo.DOID_11754,siderosis of eye,Q18554164,eye degenerative disease,Q18558225
+297,obo.DOID_11772,leukocoria,Q1862805,eye degenerative disease,Q18558225
+298,obo.DOID_11776,blind hypertensive eye,Q18554170,eye degenerative disease,Q18558225
+299,obo.DOID_980,choroidal sclerosis,Q18558226,eye degenerative disease,Q18558225
+300,obo.DOID_10033,cycloplegia,Q1147596,eye accommodation disease,Q18553766
+301,obo.DOID_11177,total internal ophthalmoplegia,Q18554023,eye accommodation disease,Q18553766
+302,obo.DOID_11637,accommodative spasm,Q7573981,eye accommodation disease,Q18553766
+303,obo.DOID_11638,presbyopia,Q319595,eye accommodation disease,Q18553766
+304,obo.DOID_10140,dry eye syndrome,Q18553790,lacrimal apparatus disease,Q18554657
+305,obo.DOID_10174,lacrimal passage granuloma,Q18553799,lacrimal apparatus disease,Q18554657
+306,obo.DOID_11134,prolapse of lacrimal gland,Q18554014,lacrimal apparatus disease,Q18554657
+307,obo.DOID_950,dacryoadenitis,Q1424488,lacrimal apparatus disease,Q18554657
+308,obo.DOID_13651,eversion of lacrimal punctum,Q18554569,lacrimal apparatus disease,Q18554657
+309,obo.DOID_13653,stenosis of lacrimal punctum,Q18554570,lacrimal apparatus disease,Q18554657
+310,obo.DOID_13654,stenosis of lacrimal passage,Q18554571,lacrimal apparatus disease,Q18554657
+311,obo.DOID_13655,acquired tear duct stenosis,Q18554572,lacrimal apparatus disease,Q18554657
+312,obo.DOID_13757,excessive tearing,Q1347256,lacrimal apparatus disease,Q18554657
+313,obo.DOID_13929,lacrimal duct obstruction,Q5797309,lacrimal apparatus disease,Q18554657
+314,obo.DOID_1399,primary lacrimal atrophy,Q18554654,lacrimal apparatus disease,Q18554657
+315,obo.DOID_1822,secondary lacrimal atrophy,Q18554917,lacrimal apparatus disease,Q18554657
+316,obo.DOID_3096,stenosis of lacrimal sac,Q18555286,lacrimal apparatus disease,Q18554657
+317,obo.DOID_6970,acute inflammation of lacrimal passage,Q18557424,lacrimal apparatus disease,Q18554657
+318,obo.DOID_9935,chronic inflammation of lacrimal passage,Q18558259,lacrimal apparatus disease,Q18554657
+320,obo.DOID_10377,ametropic amblyopia,Q16002876,amblyopia,Q207855
+321,obo.DOID_10378,disuse amblyopia,Q18553854,amblyopia,Q207855
+322,obo.DOID_10989,conjunctival vascular disease,Q18553987,conjunctival disease,Q18556249
+323,obo.DOID_6195,conjunctivitis,Q167844,conjunctival disease,Q18556249
+324,obo.DOID_11653,conjunctival deposit,Q18554139,conjunctival disease,Q18556249
+325,obo.DOID_1248,ocular hyperemia,Q18554326,conjunctival disease,Q18556249
+326,obo.DOID_4250,conjunctivochalasis,Q5161181,conjunctival disease,Q18556249
+327,obo.DOID_11595,scleral staphyloma,Q18554116,scleral disease,Q18554064
+328,obo.DOID_12124,episcleritis periodica fugax,Q18554242,scleral disease,Q18554064
+329,obo.DOID_13452,scleritis,Q511000,scleral disease,Q18554064
+330,obo.DOID_14230,scleromalacia perforans,Q18554713,scleral disease,Q18554064
+331,obo.DOID_728,nodular episcleritis,Q18557538,scleral disease,Q18554064
+332,obo.DOID_11518,abnormal pupillary function,Q18554099,pupil disorder,Q18555067
+333,obo.DOID_11581,phlyctenulosis,Q7186555,keratoconjunctivitis,Q1623006
+334,obo.DOID_12125,neurotrophic keratoconjunctivitis,Q18554243,keratoconjunctivitis,Q1623006
+335,obo.DOID_12197,punctate epithelial keratoconjunctivitis,Q1117652,keratoconjunctivitis,Q1623006
+336,obo.DOID_13014,Adenoviral keratoconjunctivitis,Q769741,keratoconjunctivitis,Q1623006
+337,obo.DOID_9461,exposure keratitis,Q18558134,keratoconjunctivitis,Q1623006
+338,obo.DOID_11766,Phthisis bulbi,Q906264,ocular hypotension,Q18557760
+339,obo.DOID_12349,primary eye hypotony,Q18554303,ocular hypotension,Q18557760
+340,obo.DOID_5691,visual cortex disease,Q18556943,visual pathway disease,Q18554635
+341,obo.DOID_11975,Morning glory disc anomaly,Q18070807,visual pathway disease,Q18554635
+342,obo.DOID_13295,crater-like holes of optic disc,Q7098795,visual pathway disease,Q18554635
+343,obo.DOID_1392,pseudopapilledema,Q18554631,visual pathway disease,Q18554635
+344,obo.DOID_1241,luxation of globe,Q18554318,globe disease,Q18554319
+345,obo.DOID_14070,vestibular nystagmus,Q18554676,globe disease,Q18554319
+346,obo.DOID_14199,posterior dislocation of lens,Q18554708,globe disease,Q18554319
+347,obo.DOID_2460,anterior dislocation of lens,Q18555087,globe disease,Q18554319
+348,obo.DOID_4692,endophthalmitis,Q1294912,globe disease,Q18554319
+349,obo.DOID_1979,focal chorioretinitis,Q18554953,chorioretinitis,Q1402851
+350,obo.DOID_12731,pars planitis,Q18554368,chorioretinitis,Q1402851
+351,obo.DOID_8787,disseminated chorioretinitis,Q18558014,chorioretinitis,Q1402851
+352,obo.DOID_240,iris disease,Q18555070,uveal disease,Q18555950
+353,obo.DOID_1417,choroid disease,Q18554701,uveal disease,Q18555950
+354,obo.DOID_13141,uveitis,Q280027,uveal disease,Q18555950
+355,obo.DOID_13399,color blindness,Q133696,blindness,Q10874
+356,obo.DOID_0050433,fatal familial insomnia,Q862872,transmissible spongiform encephalopathy,Q703961
+358,obo.DOID_11949,Creutzfeldt-Jakob disease,Q49989,transmissible spongiform encephalopathy,Q703961
+359,obo.DOID_3530,chronic wasting disease,Q1087811,transmissible spongiform encephalopathy,Q703961
+360,obo.DOID_4249,Gerstmann-Straussler-Scheinker syndrome,Q383228,transmissible spongiform encephalopathy,Q703961
+361,obo.DOID_5434,scrapie,Q170102,transmissible spongiform encephalopathy,Q703961
+363,obo.DOID_648,kuru,Q274615,transmissible spongiform encephalopathy,Q703961
+364,obo.DOID_0050659,biotin-responsive basal ganglia disease,Q864845,basal ganglia disease,Q4866181
+365,obo.DOID_0060230,basal ganglia calcification,Q1947307,basal ganglia disease,Q4866181
+366,obo.DOID_0050669,spastic cerebral palsy,Q7573995,cerebral palsy,Q210427
+367,obo.DOID_0050670,ataxic cerebral palsy,Q4812914,cerebral palsy,Q210427
+368,obo.DOID_0050672,dyskinetic cerebral palsy,Q4813631,cerebral palsy,Q210427
+369,obo.DOID_0050673,mixed cerebral palsy,Q16934832,cerebral palsy,Q210427
+370,obo.DOID_0050701,electroclinical syndrome,Q18553411,epilepsy,Q41571
+371,obo.DOID_1827,juvenile myoclonic epilepsy,Q543517,epilepsy,Q41571
+372,obo.DOID_0060281,photosensitive epilepsy,Q1150299,epilepsy,Q41571
+373,obo.DOID_11832,visual epilepsy,Q18554191,epilepsy,Q41571
+374,obo.DOID_2234,focal epilepsy,Q7140388,epilepsy,Q41571
+375,obo.DOID_1824,status epilepticus,Q980709,epilepsy,Q41571
+376,obo.DOID_2544,extratemporal epilepsy,Q18555113,epilepsy,Q41571
+378,obo.DOID_2785,Dandy-Walker syndrome,Q733493,cerebellar disease,Q564123
+379,obo.DOID_0090132,complex cortical dysplasia with other brain malformations 7,Q30988929,complex cortical dysplasia with other brain malformations,Q30989519
+385,obo.DOID_0090138,complex cortical dysplasia with other brain malformations 4,Q30989669,complex cortical dysplasia with other brain malformations,Q30989519
+386,obo.DOID_543,dystonia,Q906492,movement disorder,Q2608695
+387,obo.DOID_0111153,Mirror movement disorder,Q6874652,movement disorder,Q2608695
+388,obo.DOID_4990,essential tremor,Q693519,movement disorder,Q2608695
+389,obo.DOID_12859,choreatic disease,Q1076421,movement disorder,Q2608695
+390,obo.DOID_13366,Stiff-Person syndrome,Q1235785,movement disorder,Q2608695
+391,obo.DOID_13839,extrapyramidal and movement disorder,Q18554618,movement disorder,Q2608695
+392,obo.DOID_1713,benign shuddering attacks,Q18554881,movement disorder,Q2608695
+393,obo.DOID_678,progressive supranuclear palsy,Q945930,movement disorder,Q2608695
+394,obo.DOID_9854,lingual-facial-buccal dyskinesia,Q18558243,movement disorder,Q2608695
+405,obo.DOID_10024,migraine with aura,Q18553762,migraine disorder,Q133823
+406,obo.DOID_12783,migraine without aura,Q3724157,migraine disorder,Q133823
+407,obo.DOID_10081,syphilitic encephalitis,Q18553778,encephalitis,Q199615
+408,obo.DOID_13664,post-vaccinal encephalitis,Q18554576,encephalitis,Q199615
+409,obo.DOID_5222,acute necrotizing encephalitis,Q18556684,encephalitis,Q199615
+410,obo.DOID_5224,acute hemorrhagic encephalitis,Q18556685,encephalitis,Q199615
+411,obo.DOID_5225,von Economo's disease,Q1369020,encephalitis,Q199615
+412,obo.DOID_646,viral encephalitis,Q3053951,viral infectious disease,Q1928978
+413,obo.DOID_10579,leukodystrophy,Q1821559,cerebral degeneration,Q1620193
+414,obo.DOID_2367,neuroaxonal dystrophy,Q18555065,cerebral degeneration,Q1620193
+415,obo.DOID_10742,cerebral lipidosis,Q18553924,cerebral degeneration,Q1620193
+416,obo.DOID_10908,hydrocephalus,Q193003,cerebral degeneration,Q1620193
+417,obo.DOID_14524,senile degeneration of brain,Q18554783,cerebral degeneration,Q1620193
+418,obo.DOID_11459,pseudotumor cerebri,Q741208,intracranial hypertension,Q18558125
+419,obo.DOID_9427,hypertensive encephalopathy,Q4138746,intracranial hypertension,Q18558125
+420,obo.DOID_12550,hepatic coma,Q18554341,hepatic encephalopathy,Q642548
+421,obo.DOID_13088,periventricular leukomalacia,Q469490,encephalomalacia,Q947813
+422,obo.DOID_6676,Froelich syndrome,Q1276885,Hypothalamic disease,Q5961220
+426,obo.DOID_0050953,X-linked cerebellar ataxia,Q21082499,hereditary  ataxia,Q3731293
+428,obo.DOID_963,episodic ataxia,Q21503282,hereditary  ataxia,Q3731293
+429,obo.DOID_0111170,autosomal dominant sensory ataxia 1,Q50349838,hereditary  ataxia,Q3731293
+431,obo.DOID_14330,Parkinson disease,Q11085,synucleinopathy,Q16963368
+432,obo.DOID_4752,multiple system atrophy,Q1541975,synucleinopathy,Q16963368
+433,obo.DOID_2377,multiple sclerosis,Q8277,autoimmune disease of central nervous system,Q18553585
+434,obo.DOID_0060215,Balo concentric sclerosis,Q1783645,demyelinating disease,Q1186703
+435,obo.DOID_636,central pontine myelinolysis,Q190370,demyelinating disease,Q1186703
+437,obo.DOID_0060266,pontocerebellar hypoplasia type 1B,Q18966146,non-syndromic pontocerebellar hypoplasia,Q1698867
+439,obo.DOID_0060268,pontocerebellar hypoplasia type 2B,Q18966149,non-syndromic pontocerebellar hypoplasia,Q1698867
+441,obo.DOID_0060270,pontocerebellar hypoplasia type 2D,Q18966152,non-syndromic pontocerebellar hypoplasia,Q1698867
+444,obo.DOID_0060273,pontocerebellar hypoplasia type 4,Q18966155,non-syndromic pontocerebellar hypoplasia,Q1698867
+445,obo.DOID_0060274,pontocerebellar hypoplasia type 5,Q18966156,non-syndromic pontocerebellar hypoplasia,Q1698867
+446,obo.DOID_0060275,pontocerebellar hypoplasia type 6,Q18966158,non-syndromic pontocerebellar hypoplasia,Q1698867
+447,obo.DOID_0060276,pontocerebellar hypoplasia type 7,Q18966160,non-syndromic pontocerebellar hypoplasia,Q1698867
+448,obo.DOID_0060277,pontocerebellar hypoplasia type 8,Q18966161,non-syndromic pontocerebellar hypoplasia,Q1698867
+449,obo.DOID_0060278,pontocerebellar hypoplasia type 9,Q18966162,non-syndromic pontocerebellar hypoplasia,Q1698867
+450,obo.DOID_0060279,pontocerebellar hypoplasia type 10,Q18966164,non-syndromic pontocerebellar hypoplasia,Q1698867
+452,obo.DOID_0110736,neurodegeneration with brain iron accumulation 2B,Q32140708,neurodegeneration with brain iron accumulation,Q16892735
+453,obo.DOID_0110737,Adult-onset basal ganglia disease,Q3338664,neurodegeneration with brain iron accumulation,Q16892735
+454,obo.DOID_0110738,neurodegeneration with brain iron accumulation 4,Q32140736,neurodegeneration with brain iron accumulation,Q16892735
+455,obo.DOID_0110739,neurodegeneration with brain iron accumulation 5,Q32140749,neurodegeneration with brain iron accumulation,Q16892735
+457,obo.DOID_3981,pantothenate kinase-associated neurodegeneration,Q1436162,neurodegeneration with brain iron accumulation,Q16892735
+460,obo.DOID_681,progressive bulbar palsy,Q7248833,motor neuron disease,Q3221083
+461,obo.DOID_0111552,scapuloperoneal spinal muscular atrophy,Q55950307,motor neuron disease,Q3221083
+463,obo.DOID_230,lateral sclerosis,Q2881413,motor neuron disease,Q3221083
+464,obo.DOID_318,progressive muscular atrophy,Q2279175,motor neuron disease,Q3221083
+465,obo.DOID_683,motor neuritis,Q18557373,motor neuron disease,Q3221083
+467,obo.DOID_14332,postencephalitic Parkinson disease,Q3508787,secondary parkinsonism,Q18554542
+468,obo.DOID_0080159,cryptococcal meningitis,Q18967011,fungal meningitis,Q5509169
+469,obo.DOID_12246,histoplasmosis meningitis,Q18554277,fungal meningitis,Q5509169
+470,obo.DOID_0080176,meningococcal meningitis,Q7386479,bacterial meningitis,Q3678510
+471,obo.DOID_0080179,Haemophilus meningitis,Q17119372,bacterial meningitis,Q3678510
+472,obo.DOID_10073,syphilitic meningitis,Q3854684,bacterial meningitis,Q3678510
+473,obo.DOID_11572,Listeria meningitis,Q18554110,bacterial meningitis,Q3678510
+474,obo.DOID_11574,streptococcal meningitis,Q18554111,bacterial meningitis,Q3678510
+475,obo.DOID_14559,anaerobic meningitis,Q18554795,bacterial meningitis,Q3678510
+476,obo.DOID_10361,eosinophilic meningitis,Q18553849,chronic meningitis,Q18553843
+477,obo.DOID_0050886,Troyer syndrome,Q3508706,hereditary spastic paraplegia,Q657516
+478,obo.DOID_0060245,mast syndrome,Q18966121,hereditary spastic paraplegia,Q657516
+479,obo.DOID_0060246,MASA syndrome,Q6714500,hereditary spastic paraplegia,Q657516
+487,obo.DOID_0110770,hereditary spastic paraplegia 17,Q32142660,hereditary spastic paraplegia,Q657516
+502,obo.DOID_0110785,hereditary spastic paraplegia 34,Q32142896,hereditary spastic paraplegia,Q657516
+503,obo.DOID_0110786,hereditary spastic paraplegia 35,Q32142909,hereditary spastic paraplegia,Q657516
+504,obo.DOID_0110787,hereditary spastic paraplegia 36,Q32142923,hereditary spastic paraplegia,Q657516
+506,obo.DOID_0110789,hereditary spastic paraplegia 38,Q32142955,hereditary spastic paraplegia,Q657516
+507,obo.DOID_0110790,hereditary spastic paraplegia 39,Q32142969,hereditary spastic paraplegia,Q657516
+512,obo.DOID_0110795,hereditary spastic paraplegia 43,Q32143030,hereditary spastic paraplegia,Q657516
+513,obo.DOID_0110796,hereditary spastic paraplegia 44,Q32143044,hereditary spastic paraplegia,Q657516
+514,obo.DOID_0110797,hereditary spastic paraplegia 45,Q32143061,hereditary spastic paraplegia,Q657516
+515,obo.DOID_0110798,hereditary spastic paraplegia 46,Q32143076,hereditary spastic paraplegia,Q657516
+516,obo.DOID_0110799,hereditary spastic paraplegia 47,Q32143094,hereditary spastic paraplegia,Q657516
+517,obo.DOID_0110800,hereditary spastic paraplegia 48,Q32143107,hereditary spastic paraplegia,Q657516
+518,obo.DOID_0110801,hereditary spastic paraplegia 49,Q32143120,hereditary spastic paraplegia,Q657516
+519,obo.DOID_0110802,hereditary spastic paraplegia 50,Q32143133,hereditary spastic paraplegia,Q657516
+520,obo.DOID_0110803,hereditary spastic paraplegia 51,Q32143147,hereditary spastic paraplegia,Q657516
+521,obo.DOID_0110804,hereditary spastic paraplegia 52,Q32143154,hereditary spastic paraplegia,Q657516
+522,obo.DOID_0110805,hereditary spastic paraplegia 53,Q32143165,hereditary spastic paraplegia,Q657516
+523,obo.DOID_0110806,hereditary spastic paraplegia 54,Q32143177,hereditary spastic paraplegia,Q657516
+524,obo.DOID_0110807,hereditary spastic paraplegia 55,Q32143192,hereditary spastic paraplegia,Q657516
+525,obo.DOID_0110808,hereditary spastic paraplegia 56,Q32143203,hereditary spastic paraplegia,Q657516
+529,obo.DOID_0110812,hereditary spastic paraplegia 61,Q32143254,hereditary spastic paraplegia,Q657516
+530,obo.DOID_0110813,hereditary spastic paraplegia 62,Q32143270,hereditary spastic paraplegia,Q657516
+531,obo.DOID_0110814,hereditary spastic paraplegia 63,Q32143285,hereditary spastic paraplegia,Q657516
+532,obo.DOID_0110815,hereditary spastic paraplegia 64,Q32143302,hereditary spastic paraplegia,Q657516
+534,obo.DOID_0110817,hereditary spastic paraplegia 72,Q32143322,hereditary spastic paraplegia,Q657516
+535,obo.DOID_0110818,hereditary spastic paraplegia 73,Q32143335,hereditary spastic paraplegia,Q657516
+536,obo.DOID_0110819,hereditary spastic paraplegia 74,Q32143354,hereditary spastic paraplegia,Q657516
+537,obo.DOID_0110820,hereditary spastic paraplegia 75,Q32143369,hereditary spastic paraplegia,Q657516
+538,obo.DOID_0110821,autosomal recessive spastic paraplegia type 76,Q32143385,hereditary spastic paraplegia,Q657516
+539,obo.DOID_0110822,hereditary spastic paraplegia 77,Q32143403,hereditary spastic paraplegia,Q657516
+543,obo.DOID_10992,acute hemorrhagic leukoencephalitis,Q18966598,acute disseminated encephalomyelitis,Q424242
+545,obo.DOID_0070146,hereditary sensory neuropathy type 4,Q50349712,hereditary sensory and autonomic neuropathy,Q3702898
+547,obo.DOID_0070148,hereditary sensory neuropathy type 1B,Q50349714,hereditary sensory and autonomic neuropathy,Q3702898
+548,obo.DOID_0070149,hereditary sensory and autonomic neuropathy type 7,Q50349715,hereditary sensory and autonomic neuropathy,Q3702898
+553,obo.DOID_0070159,hereditary sensory neuropathy X-linked,Q50349725,hereditary sensory and autonomic neuropathy,Q3702898
+554,obo.DOID_0070160,atypical hereditary sensory neuropathy,Q50349726,hereditary sensory and autonomic neuropathy,Q3702898
+555,obo.DOID_11589,Riley-Day syndrome,Q2325854,hereditary sensory and autonomic neuropathy,Q3702898
+556,obo.DOID_439,neuromuscular junction disease,Q7002430,neuromuscular disease,Q2246789
+557,obo.DOID_10595,Charcot–Marie–Tooth disease,Q1052687,neuromuscular disease,Q2246789
+558,obo.DOID_0050692,Brody myopathy,Q4973199,neuromuscular disease,Q2246789
+559,obo.DOID_0060346,Native American myopathy,Q11781607,neuromuscular disease,Q2246789
+560,obo.DOID_0111538,paramyotonia congenita,Q493103,neuromuscular disease,Q2246789
+561,obo.DOID_913,atrophic muscular disease,Q18558067,neuromuscular disease,Q2246789
+562,obo.DOID_0090068,giant axonal neuropathy 1,Q3338682,axonal neuropathy,Q18557549
+563,obo.DOID_0090069,giant axonal neuropathy 2,Q30989381,axonal neuropathy,Q18557549
+564,obo.DOID_0111729,familial episodic pain syndrome with predominantly upper body involvement,Q55784462,familial episodic pain syndrome,Q56014136
+565,obo.DOID_0111730,"episodic pain syndrome, familial, 2",Q55784747,familial episodic pain syndrome,Q56014136
+566,obo.DOID_0111731,familial episodic pain syndrome with predominantly lower limb involvement,Q55784748,familial episodic pain syndrome,Q56014136
+567,obo.DOID_1187,tibial neuropathy,Q18554201,mononeuropathy,Q18554205
+568,obo.DOID_12171,radial neuropathy,Q427118,mononeuropathy,Q18554205
+569,obo.DOID_1802,mononeuritis,Q18554914,mononeuropathy,Q18554205
+570,obo.DOID_4196,femoral neuropathy,Q18556225,mononeuropathy,Q18554205
+571,obo.DOID_4201,peroneal neuropathy,Q18556226,mononeuropathy,Q18554205
+572,obo.DOID_4613,ulnar neuropathy,Q7879711,mononeuropathy,Q18554205
+573,obo.DOID_12785,diabetic polyneuropathy,Q4160985,diabetic neuropathy,Q2046550
+574,obo.DOID_1279,ocular motility disease,Q18554378,cranial nerve disease,Q5182126
+575,obo.DOID_1891,optic nerve disease,Q2879095,cranial nerve disease,Q5182126
+576,obo.DOID_3817,cranial nerve palsy,Q18556080,cranial nerve disease,Q5182126
+577,obo.DOID_562,third cranial nerve disease,Q18556902,cranial nerve disease,Q5182126
+578,obo.DOID_561,trigeminal nerve disease,Q18556899,cranial nerve disease,Q5182126
+579,obo.DOID_3418,glossopharyngeal nerve disease,Q18555926,cranial nerve disease,Q5182126
+580,obo.DOID_1756,facial nerve disease,Q18554894,cranial nerve disease,Q5182126
+581,obo.DOID_13864,trochlear nerve disease,Q18554621,cranial nerve disease,Q5182126
+582,obo.DOID_560,jaw-winking syndrome,Q1476789,cranial nerve disease,Q5182126
+583,obo.DOID_14183,alcoholic neuropathy,Q4062508,inflammatory and toxic neuropathy,Q18555110
+584,obo.DOID_14184,polyneuropathy due to drug,Q18554707,inflammatory and toxic neuropathy,Q18555110
+585,obo.DOID_14402,critical illness polyneuropathy,Q1140516,inflammatory and toxic neuropathy,Q18555110
+587,obo.DOID_8681,paraneoplastic polyneuropathy,Q18558000,inflammatory and toxic neuropathy,Q18555110
+588,obo.DOID_11486,Horner's syndrome,Q1126839,autonomic neuropathy,Q18554095
+589,obo.DOID_11503,diabetic autonomic neuropathy,Q18554094,autonomic neuropathy,Q18554095
+590,obo.DOID_14022,algoneurodystrophy,Q18554660,complex regional pain syndrome,Q1066311
+592,obo.DOID_3222,causalgia,Q18555343,complex regional pain syndrome,Q1066311
+593,obo.DOID_4307,polyradiculopathy,Q18556278,polyradiculoneuropathy,Q3395796
+594,obo.DOID_5213,chronic inflammatory demyelinating polyradiculoneuropathy,Q1088030,polyradiculoneuropathy,Q3395796
+595,obo.DOID_7441,chronic metabolic polyneuropathy,Q18557591,chronic polyneuropathy,Q18556683
+596,obo.DOID_7825,chronic toxic polyneuropathy,Q18557744,chronic polyneuropathy,Q18556683
+597,obo.DOID_0060690,autosomal dominant auditory neuropathy 1,Q28024508,autosomal dominant nonsyndromic deafness,Q18553309
+598,obo.DOID_0080267,autosomal dominant nonsyndromic deafness 71,Q53661603,autosomal dominant nonsyndromic deafness,Q18553309
+599,obo.DOID_0080268,autosomal dominant nonsyndromic deafness 72,Q53661604,autosomal dominant nonsyndromic deafness,Q18553309
+600,obo.DOID_0080269,autosomal dominant nonsyndromic deafness 73,Q53661606,autosomal dominant nonsyndromic deafness,Q18553309
+603,obo.DOID_0110542,autosomal dominant nonsyndromic deafness 10,Q28024669,autosomal dominant nonsyndromic deafness,Q18553309
+610,obo.DOID_0110549,autosomal dominant nonsyndromic deafness 18,Q28024677,autosomal dominant nonsyndromic deafness,Q18553309
+617,obo.DOID_0110556,autosomal dominant nonsyndromic deafness 27,Q28024684,autosomal dominant nonsyndromic deafness,Q18553309
+620,obo.DOID_0110559,autosomal dominant nonsyndromic deafness 2B,Q28024687,autosomal dominant nonsyndromic deafness,Q18553309
+621,obo.DOID_0110560,autosomal dominant nonsyndromic deafness 30,Q28024688,autosomal dominant nonsyndromic deafness,Q18553309
+624,obo.DOID_0110563,autosomal dominant nonsyndromic deafness 36,Q28024691,autosomal dominant nonsyndromic deafness,Q18553309
+627,obo.DOID_0110566,autosomal dominant nonsyndromic deafness 40,Q28024694,autosomal dominant nonsyndromic deafness,Q18553309
+628,obo.DOID_0110567,autosomal dominant nonsyndromic deafness 41,Q28024695,autosomal dominant nonsyndromic deafness,Q18553309
+629,obo.DOID_0110568,autosomal dominant nonsyndromic deafness 43,Q28024696,autosomal dominant nonsyndromic deafness,Q18553309
+630,obo.DOID_0110569,autosomal dominant nonsyndromic deafness 44,Q28024697,autosomal dominant nonsyndromic deafness,Q18553309
+631,obo.DOID_0110570,autosomal dominant nonsyndromic deafness 47,Q28024698,autosomal dominant nonsyndromic deafness,Q18553309
+632,obo.DOID_0110571,autosomal dominant nonsyndromic deafness 48,Q28024699,autosomal dominant nonsyndromic deafness,Q18553309
+633,obo.DOID_0110572,autosomal dominant nonsyndromic deafness 49,Q28024701,autosomal dominant nonsyndromic deafness,Q18553309
+635,obo.DOID_0110574,autosomal dominant nonsyndromic deafness 4B,Q28024703,autosomal dominant nonsyndromic deafness,Q18553309
+638,obo.DOID_0110577,autosomal dominant nonsyndromic deafness 51,Q28024706,autosomal dominant nonsyndromic deafness,Q18553309
+639,obo.DOID_0110578,autosomal dominant nonsyndromic deafness 52,Q28024707,autosomal dominant nonsyndromic deafness,Q18553309
+640,obo.DOID_0110579,autosomal dominant nonsyndromic deafness 53,Q28024708,autosomal dominant nonsyndromic deafness,Q18553309
+641,obo.DOID_0110580,autosomal dominant nonsyndromic deafness 54,Q28024709,autosomal dominant nonsyndromic deafness,Q18553309
+642,obo.DOID_0110581,autosomal dominant nonsyndromic deafness 56,Q28024710,autosomal dominant nonsyndromic deafness,Q18553309
+643,obo.DOID_0110582,autosomal dominant nonsyndromic deafness 58,Q28024711,autosomal dominant nonsyndromic deafness,Q18553309
+644,obo.DOID_0110583,autosomal dominant nonsyndromic deafness 59,Q28024713,autosomal dominant nonsyndromic deafness,Q18553309
+646,obo.DOID_0110585,autosomal dominant nonsyndromic deafness 64,Q28024715,autosomal dominant nonsyndromic deafness,Q18553309
+647,obo.DOID_0110586,autosomal dominant nonsyndromic deafness 65,Q28024716,autosomal dominant nonsyndromic deafness,Q18553309
+648,obo.DOID_0110587,autosomal dominant nonsyndromic deafness 66,Q28024717,autosomal dominant nonsyndromic deafness,Q18553309
+649,obo.DOID_0110588,autosomal dominant nonsyndromic deafness 67,Q28024718,autosomal dominant nonsyndromic deafness,Q18553309
+650,obo.DOID_0110589,autosomal dominant nonsyndromic deafness 68,Q28024719,autosomal dominant nonsyndromic deafness,Q18553309
+651,obo.DOID_0110590,autosomal dominant nonsyndromic deafness 69,Q28024720,autosomal dominant nonsyndromic deafness,Q18553309
+653,obo.DOID_0110592,autosomal dominant nonsyndromic deafness 70,Q28024722,autosomal dominant nonsyndromic deafness,Q18553309
+655,obo.DOID_0080261,autosomal recessive nonsyndromic deafness 106,Q53661596,autosomal recessive nonsyndromic deafness,Q18553310
+656,obo.DOID_0080262,autosomal recessive nonsyndromic deafness 107,Q53661597,autosomal recessive nonsyndromic deafness,Q18553310
+657,obo.DOID_0080263,autosomal recessive nonsyndromic deafness 108,Q53661598,autosomal recessive nonsyndromic deafness,Q18553310
+658,obo.DOID_0110462,autosomal recessive nonsyndromic deafness 101,Q28024587,autosomal recessive nonsyndromic deafness,Q18553310
+659,obo.DOID_0110463,autosomal recessive nonsyndromic deafness 102,Q28024588,autosomal recessive nonsyndromic deafness,Q18553310
+660,obo.DOID_0110464,autosomal recessive nonsyndromic deafness 103,Q28024589,autosomal recessive nonsyndromic deafness,Q18553310
+661,obo.DOID_0110465,autosomal recessive nonsyndromic deafness 104,Q28024590,autosomal recessive nonsyndromic deafness,Q18553310
+669,obo.DOID_0110474,autosomal recessive nonsyndromic deafness 18B,Q28024599,autosomal recessive nonsyndromic deafness,Q18553310
+671,obo.DOID_0110476,autosomal recessive nonsyndromic deafness 1B,Q28024601,autosomal recessive nonsyndromic deafness,Q18553310
+681,obo.DOID_0110486,autosomal recessive nonsyndromic deafness 28,Q28024612,autosomal recessive nonsyndromic deafness,Q18553310
+682,obo.DOID_0110487,autosomal recessive nonsyndromic deafness 29,Q28024614,autosomal recessive nonsyndromic deafness,Q18553310
+684,obo.DOID_0110489,autosomal recessive nonsyndromic deafness 30,Q28024616,autosomal recessive nonsyndromic deafness,Q18553310
+687,obo.DOID_0110492,autosomal recessive nonsyndromic deafness 33,Q28024619,autosomal recessive nonsyndromic deafness,Q18553310
+688,obo.DOID_0110493,autosomal recessive nonsyndromic deafness 35,Q28024620,autosomal recessive nonsyndromic deafness,Q18553310
+690,obo.DOID_0110495,autosomal recessive nonsyndromic deafness 37,Q28024622,autosomal recessive nonsyndromic deafness,Q18553310
+691,obo.DOID_0110496,autosomal recessive nonsyndromic deafness 38,Q28024623,autosomal recessive nonsyndromic deafness,Q18553310
+692,obo.DOID_0110497,autosomal recessive nonsyndromic deafness 39,Q28024624,autosomal recessive nonsyndromic deafness,Q18553310
+694,obo.DOID_0110499,autosomal recessive nonsyndromic deafness 40,Q28024626,autosomal recessive nonsyndromic deafness,Q18553310
+695,obo.DOID_0110500,autosomal recessive nonsyndromic deafness 42,Q28024627,autosomal recessive nonsyndromic deafness,Q18553310
+697,obo.DOID_0110502,autosomal recessive nonsyndromic deafness 45,Q28024629,autosomal recessive nonsyndromic deafness,Q18553310
+698,obo.DOID_0110503,autosomal recessive nonsyndromic deafness 46,Q28024630,autosomal recessive nonsyndromic deafness,Q18553310
+699,obo.DOID_0110504,autosomal recessive nonsyndromic deafness 47,Q28024631,autosomal recessive nonsyndromic deafness,Q18553310
+700,obo.DOID_0110505,autosomal recessive nonsyndromic deafness 48,Q28024632,autosomal recessive nonsyndromic deafness,Q18553310
+701,obo.DOID_0110506,autosomal recessive nonsyndromic deafness 49,Q28024633,autosomal recessive nonsyndromic deafness,Q18553310
+703,obo.DOID_0110508,autosomal recessive nonsyndromic deafness 51,Q28024635,autosomal recessive nonsyndromic deafness,Q18553310
+704,obo.DOID_0110509,autosomal recessive nonsyndromic deafness 53,Q28024636,autosomal recessive nonsyndromic deafness,Q18553310
+705,obo.DOID_0110510,autosomal recessive nonsyndromic deafness 55,Q28024637,autosomal recessive nonsyndromic deafness,Q18553310
+706,obo.DOID_0110511,autosomal recessive nonsyndromic deafness 59,Q28024638,autosomal recessive nonsyndromic deafness,Q18553310
+708,obo.DOID_0110513,autosomal recessive nonsyndromic deafness 61,Q28024640,autosomal recessive nonsyndromic deafness,Q18553310
+709,obo.DOID_0110514,autosomal recessive nonsyndromic deafness 62,Q28024641,autosomal recessive nonsyndromic deafness,Q18553310
+710,obo.DOID_0110515,autosomal recessive nonsyndromic deafness 63,Q28024642,autosomal recessive nonsyndromic deafness,Q18553310
+712,obo.DOID_0110517,autosomal recessive nonsyndromic deafness 66,Q28024644,autosomal recessive nonsyndromic deafness,Q18553310
+713,obo.DOID_0110518,autosomal recessive nonsyndromic deafness 67,Q28024645,autosomal recessive nonsyndromic deafness,Q18553310
+714,obo.DOID_0110519,autosomal recessive nonsyndromic deafness 68,Q28024646,autosomal recessive nonsyndromic deafness,Q18553310
+716,obo.DOID_0110521,autosomal recessive nonsyndromic deafness 70,Q28024648,autosomal recessive nonsyndromic deafness,Q18553310
+717,obo.DOID_0110522,autosomal recessive nonsyndromic deafness 71,Q28024649,autosomal recessive nonsyndromic deafness,Q18553310
+718,obo.DOID_0110523,autosomal recessive nonsyndromic deafness 74,Q28024650,autosomal recessive nonsyndromic deafness,Q18553310
+719,obo.DOID_0110524,autosomal recessive nonsyndromic deafness 76,Q28024651,autosomal recessive nonsyndromic deafness,Q18553310
+720,obo.DOID_0110525,autosomal recessive nonsyndromic deafness 77,Q28024652,autosomal recessive nonsyndromic deafness,Q18553310
+721,obo.DOID_0110526,autosomal recessive nonsyndromic deafness 79,Q28024653,autosomal recessive nonsyndromic deafness,Q18553310
+723,obo.DOID_0110528,autosomal recessive nonsyndromic deafness 83,Q28024655,autosomal recessive nonsyndromic deafness,Q18553310
+725,obo.DOID_0110530,autosomal recessive nonsyndromic deafness 84B,Q28024657,autosomal recessive nonsyndromic deafness,Q18553310
+726,obo.DOID_0110531,autosomal recessive nonsyndromic deafness 85,Q28024658,autosomal recessive nonsyndromic deafness,Q18553310
+727,obo.DOID_0110532,autosomal recessive nonsyndromic deafness 86,Q28024659,autosomal recessive nonsyndromic deafness,Q18553310
+728,obo.DOID_0110533,autosomal recessive nonsyndromic deafness 88,Q28024660,autosomal recessive nonsyndromic deafness,Q18553310
+729,obo.DOID_0110534,autosomal recessive nonsyndromic deafness 89,Q28024661,autosomal recessive nonsyndromic deafness,Q18553310
+731,obo.DOID_0110536,autosomal recessive nonsyndromic deafness 91,Q28024663,autosomal recessive nonsyndromic deafness,Q18553310
+732,obo.DOID_0110537,autosomal recessive nonsyndromic deafness 93,Q28024664,autosomal recessive nonsyndromic deafness,Q18553310
+733,obo.DOID_0110538,autosomal recessive nonsyndromic deafness 96,Q28024665,autosomal recessive nonsyndromic deafness,Q18553310
+734,obo.DOID_0110539,autosomal recessive nonsyndromic deafness 97,Q28024666,autosomal recessive nonsyndromic deafness,Q18553310
+735,obo.DOID_0110540,autosomal recessive nonsyndromic deafness 98,Q28024667,autosomal recessive nonsyndromic deafness,Q18553310
+748,obo.DOID_0111736,X-linked nonsyndromic deafness,Q18553311,X-linked nonsyndromic deafness,Q18553311
+752,obo.DOID_0111740,"Deafness, X-linked 6",Q70209517,X-linked nonsyndromic deafness,Q18553311
+753,obo.DOID_0111734,mitochondrial non-syndromic sensorineural deafness with susceptibility to aminoglycoside exposure,Q55782752,drug-induced hearing loss,Q60195183
+755,obo.DOID_0111759,DFNY1,Q55782712,DFNY1,Q55782712
+756,obo.DOID_0050332,enlarged vestibular aqueduct,Q2241556,vestibular disease,Q16678483
+757,obo.DOID_9847,peripheral vertigo,Q18558240,vestibular disease,Q16678483
+760,obo.DOID_14165,bilateral hyperactive labyrinth,Q18554700,labyrinthine dysfunction,Q18556927
+761,obo.DOID_14413,labyrinthine bilateral reactive loss,Q18554754,labyrinthine dysfunction,Q18556927
+762,obo.DOID_1776,labyrinthine unilateral reactive loss,Q18554900,labyrinthine dysfunction,Q18556927
+763,obo.DOID_1777,unilateral hyperactive labyrinth,Q18554901,labyrinthine dysfunction,Q18556927
+764,obo.DOID_565,bilateral hypoactive labyrinth,Q18556924,labyrinthine dysfunction,Q18556927
+765,obo.DOID_9496,unilateral hypoactive labyrinth,Q18558140,labyrinthine dysfunction,Q18556927
+766,obo.DOID_1468,labyrinthitis,Q2038371,otitis interna,Q7108870
+767,obo.DOID_4796,space motion sickness,Q1365937,motion sickness,Q309067
+769,obo.DOID_10852,middle ear cholesterol granuloma,Q18553957,otitis media,Q223254
+771,obo.DOID_11217,chronic tympanitis,Q18554035,tympanic membrane disease,Q18557008
+772,obo.DOID_1214,tympanosclerosis,Q2199494,tympanic membrane disease,Q18557008
+773,obo.DOID_12546,atrophic nonflaccid tympanic membrane,Q18554339,tympanic membrane disease,Q18557008
+774,obo.DOID_13790,acute tympanitis,Q18554600,tympanic membrane disease,Q18557008
+775,obo.DOID_13791,myringitis bullosa hemorrhagica,Q10330658,tympanic membrane disease,Q18557008
+776,obo.DOID_5781,atrophic flaccid tympanic membrane,Q18557007,tympanic membrane disease,Q18557008
+777,obo.DOID_12683,vestibular neuronitis,Q1571398,vestibulocochlear nerve disease,Q18554357
+778,obo.DOID_0050147,otomycosis,Q560456,otitis externa,Q680873
+779,obo.DOID_10516,malignant otitis externa,Q3887112,otitis externa,Q680873
+780,obo.DOID_10518,swimmer's ear,Q9364346,otitis externa,Q680873
+781,obo.DOID_10520,acute infection of pinna,Q18553879,otitis externa,Q680873
+782,obo.DOID_222,perichondritis of auricle,Q2070842,otitis externa,Q680873
+783,obo.DOID_10525,double pterygium,Q18553880,pterygium,Q1862972
+784,obo.DOID_10526,conjunctival pterygium,Q18966403,pterygium,Q1862972
+785,obo.DOID_0060440,epithelial and subepithelial dystrophy,Q21154080,corneal dystrophy,Q2044949
+786,obo.DOID_0060441,epithelial-stromal TGFBI dystrophy,Q21154081,corneal dystrophy,Q2044949
+787,obo.DOID_0060442,stromal dystrophy,Q21154082,corneal dystrophy,Q2044949
+789,obo.DOID_11554,Chandler syndrome,Q18554106,corneal dystrophy,Q2044949
+790,obo.DOID_0080158,herpes simplex virus keratitis,Q1258984,keratitis,Q757838
+791,obo.DOID_0111383,autosomal dominant keratitis,Q55781158,keratitis,Q757838
+792,obo.DOID_8463,corneal ulcer,Q1628473,keratitis,Q757838
+793,obo.DOID_11382,corneal neovascularization,Q1266519,keratitis,Q757838
+794,obo.DOID_9858,deep keratitis,Q18558244,keratitis,Q757838
+795,obo.DOID_11871,macular keratitis,Q18554202,keratitis,Q757838
+796,obo.DOID_12196,superficial keratitis,Q18554266,keratitis,Q757838
+797,obo.DOID_13626,photokeratitis,Q829876,keratitis,Q757838
+798,obo.DOID_4664,filamentary keratitis,Q18556420,keratitis,Q757838
+799,obo.DOID_9697,gonococcal keratitis,Q18558192,keratitis,Q757838
+800,obo.DOID_10125,acute hydrops keratoconus,Q18553786,keratoconus,Q611984
+801,obo.DOID_10428,stable condition keratoconus,Q18553861,keratoconus,Q611984
+802,obo.DOID_11031,bullous keratopathy,Q2805908,corneal edema,Q18553993
+803,obo.DOID_11032,secondary corneal edema,Q18553994,corneal edema,Q18553993
+804,obo.DOID_11033,idiopathic corneal edema,Q18553995,corneal edema,Q18553993
+805,obo.DOID_11034,contact lens corneal edema,Q18553996,corneal edema,Q18553993
+806,obo.DOID_12307,anterior corneal pigmentation,Q18554291,corneal deposit,Q18554103
+807,obo.DOID_13448,posterior corneal pigmentation,Q18554518,corneal deposit,Q18554103
+808,obo.DOID_11781,regular astigmatism,Q18554171,astigmatism,Q177895
+809,obo.DOID_13919,irregular astigmatism,Q18554630,astigmatism,Q177895
+810,obo.DOID_11829,degenerative myopia,Q18554189,myopia,Q168403
+811,obo.DOID_540,strabismus,Q179951,ocular motility disease,Q18554378
+813,obo.DOID_11295,retinal microaneurysm,Q18554057,retinal vascular disease,Q12195125
+814,obo.DOID_8947,diabetic retinopathy,Q631361,retinal vascular disease,Q12195125
+816,obo.DOID_0080160,Cytomegalovirus retinitis,Q4271835,retinitis,Q630552
+817,obo.DOID_11316,histoplasmosis retinitis,Q7242093,retinitis,Q630552
+818,obo.DOID_3611,acute retinal necrosis syndrome,Q4677951,retinitis,Q630552
+819,obo.DOID_0110005,Leber congenital amaurosis 9,Q27677581,Leber congenital amaurosis,Q1811132
+824,obo.DOID_0110118,Leber congenital amaurosis 16,Q27677637,Leber congenital amaurosis,Q1811132
+826,obo.DOID_0110189,Leber congenital amaurosis 15,Q27674860,Leber congenital amaurosis,Q1811132
+830,obo.DOID_0110291,Leber congenital amaurosis 10,Q27677710,Leber congenital amaurosis,Q1811132
+836,obo.DOID_11282,solar retinopathy,Q7556879,chorioretinal scar,Q18554003
+837,obo.DOID_11283,peripheral scars of retina,Q18554055,chorioretinal scar,Q18554003
+838,obo.DOID_8498,hereditary night blindness,Q18557952,night blindness,Q7758678
+839,obo.DOID_11874,abnormal threshold of rods,Q18554203,night blindness,Q7758678
+840,obo.DOID_12514,retinal perforation,Q18554331,retinal detachment,Q625164
+841,obo.DOID_4449,macular retinal edema,Q1813737,retinal edema,Q18557405
+842,obo.DOID_11212,hydrophthalmos,Q1640324,primary congenital glaucoma,Q3108582
+843,obo.DOID_1066,residual stage of open angle glaucoma,Q18553914,open-angle glaucoma,Q3108586
+844,obo.DOID_1070,primary open angle glaucoma,Q18553921,open-angle glaucoma,Q3108586
+845,obo.DOID_13544,low tension glaucoma,Q17300307,open-angle glaucoma,Q3108586
+846,obo.DOID_12570,phacolytic glaucoma,Q18554345,phacogenic glaucoma,Q18554346
+847,obo.DOID_13641,exfoliation syndrome,Q3824795,phacogenic glaucoma,Q18554346
+848,obo.DOID_13327,anatomical narrow angle borderline glaucoma,Q18554488,borderline glaucoma,Q18558092
+849,obo.DOID_14548,steroid-induced glaucoma - borderline,Q18554792,borderline glaucoma,Q18558092
+850,obo.DOID_1405,primary angle-closure glaucoma,Q18554668,angle-closure glaucoma,Q18554545
+851,obo.DOID_9948,residual stage corticosteroid-induced glaucoma,Q18558265,steroid-induced glaucoma,Q3771927
+852,obo.DOID_0090114,Sorsby's fundus dystrophy,Q30314095,hereditary retinal dystrophy,Q18557955
+853,obo.DOID_0111569,autosomal dominant vitreoretinochoroidopathy,Q55345683,hereditary retinal dystrophy,Q18557955
+855,obo.DOID_0060836,isolated microphthalmia 4,Q28065640,isolated microphthalmia,Q55762665
+856,obo.DOID_0060837,isolated microphthalmia 5,Q28065641,isolated microphthalmia,Q55762665
+857,obo.DOID_0060838,isolated microphthalmia 7,Q28065642,isolated microphthalmia,Q55762665
+858,obo.DOID_0060839,isolated microphthalmia 2,Q28065643,isolated microphthalmia,Q55762665
+867,obo.DOID_0110229,cataract 6 multiple types,Q27677691,cataract,Q127724
+870,obo.DOID_0110232,cataract 29,Q27674871,cataract,Q127724
+871,obo.DOID_0110233,cataract 27,Q27674872,cataract,Q127724
+874,obo.DOID_0110236,cataract 39 multiple types,Q27674876,cataract,Q127724
+875,obo.DOID_0110237,cataract 42,Q27674877,cataract,Q127724
+876,obo.DOID_0110238,cataract 18,Q27674879,cataract,Q127724
+879,obo.DOID_0110241,cataract 41,Q27674882,cataract,Q127724
+880,obo.DOID_0110242,cataract 13 with adult i phenotype,Q27674883,cataract,Q127724
+881,obo.DOID_0110243,cataract 46 juvenile-onset,Q27674884,cataract,Q127724
+882,obo.DOID_0110244,cataract 28,Q27674885,cataract,Q127724
+883,obo.DOID_0110245,cataract 38,Q27674886,cataract,Q127724
+884,obo.DOID_0110246,cataract 26 multiple types,Q27674887,cataract,Q127724
+885,obo.DOID_0110247,cataract 36,Q27674888,cataract,Q127724
+886,obo.DOID_0110248,cataract 30,Q27674889,cataract,Q127724
+889,obo.DOID_0110251,cataract 15 multiple types,Q27674891,cataract,Q127724
+890,obo.DOID_0110252,cataract 37,Q27674892,cataract,Q127724
+892,obo.DOID_0110254,cataract 25,Q27674894,cataract,Q127724
+897,obo.DOID_0110259,cataract 43,Q27674899,cataract,Q127724
+898,obo.DOID_0110260,cataract 7,Q27674901,cataract,Q127724
+899,obo.DOID_0110261,cataract 35,Q27674902,cataract,Q127724
+901,obo.DOID_0110263,cataract 19 multiple types,Q27674903,cataract,Q127724
+905,obo.DOID_0110267,cataract 44,Q27674906,cataract,Q127724
+909,obo.DOID_0110271,cataract 23,Q27674912,cataract,Q127724
+910,obo.DOID_0110272,Zonular cataract and nystagmus,Q8074019,cataract,Q127724
+911,obo.DOID_9669,senile cataract,Q18558188,cataract,Q127724
+912,obo.DOID_13328,diabetic cataract,Q18554489,cataract,Q127724
+913,obo.DOID_13822,tetanic cataract,Q18554613,cataract,Q127724
+914,obo.DOID_82,myotonic cataract,Q18557868,cataract,Q127724
+915,obo.DOID_0111149,autosomal recessive isolated ectopia lentis 2,Q50349815,isolated ectopia lentis,Q50349814
+916,obo.DOID_0111150,autosomal dominant isolated ectopia lentis 1,Q50349816,isolated ectopia lentis,Q50349814
+919,obo.DOID_0050664,Bietti crystalline corneoretinal dystrophy,Q4904691,retinal degeneration,Q3043268
+920,obo.DOID_8465,retinoschisis,Q1049881,retinal degeneration,Q3043268
+921,obo.DOID_0060869,late-onset retinal degenration,Q32136602,retinal degeneration,Q3043268
+923,obo.DOID_12161,peripheral retinal degeneration,Q18554249,retinal degeneration,Q3043268
+924,obo.DOID_11029,pinguecula,Q1862031,conjunctival degeneration,Q18553789
+925,obo.DOID_11164,band keratopathy,Q4854239,corneal degeneration,Q18554311
+926,obo.DOID_11267,keratomalacia,Q379418,corneal degeneration,Q18554311
+927,obo.DOID_11342,arcus senilis,Q120136,corneal degeneration,Q18554311
+928,obo.DOID_11541,recurrent corneal erosion,Q2455180,corneal degeneration,Q18554311
+929,obo.DOID_11793,phthisical cornea,Q18554175,corneal degeneration,Q18554311
+930,obo.DOID_14507,peripheral degeneration of cornea,Q18554780,corneal degeneration,Q18554311
+931,obo.DOID_2879,nodular degeneration of cornea,Q18555225,corneal degeneration,Q18554311
+932,obo.DOID_9776,senile atrophy of choroid,Q18558219,choroidal sclerosis,Q18558226
+933,obo.DOID_979,angioid streaks of choroid,Q18558223,choroidal sclerosis,Q18558226
+934,obo.DOID_9794,hereditary choroidal atrophy,Q18558224,choroidal sclerosis,Q18558226
+935,obo.DOID_981,diffuse secondary choroid atrophy,Q18558230,choroidal sclerosis,Q18558226
+936,obo.DOID_10138,xerophthalmia,Q1054713,dry eye syndrome,Q18553790
+938,obo.DOID_12809,chronic lacrimal gland enlargement,Q18554383,dacryoadenitis,Q1424488
+939,obo.DOID_949,chronic dacryoadenitis,Q18558139,dacryoadenitis,Q1424488
+940,obo.DOID_952,acute dacryoadenitis,Q18558153,dacryoadenitis,Q1424488
+941,obo.DOID_13756,epiphora due to insufficient drainage,Q18554594,excessive tearing,Q1347256
+942,obo.DOID_14244,epiphora due to excess lacrimation,Q18554717,excessive tearing,Q1347256
+943,obo.DOID_9938,dacryocystitis,Q1157761,acute inflammation of lacrimal passage,Q18557424
+944,obo.DOID_6969,acute canaliculitis,Q18557423,acute inflammation of lacrimal passage,Q18557424
+945,obo.DOID_9936,chronic canaliculitis,Q18558260,chronic inflammation of lacrimal passage,Q18558259
+946,obo.DOID_9939,dacryocystocele,Q3011658,chronic inflammation of lacrimal passage,Q18558259
+947,obo.DOID_11184,acute conjunctivitis,Q18554026,conjunctivitis,Q167844
+948,obo.DOID_2475,chronic conjunctivitis,Q18555092,conjunctivitis,Q167844
+949,obo.DOID_2458,papillary conjunctivitis,Q18555086,conjunctivitis,Q167844
+950,obo.DOID_9700,bacterial conjunctivitis,Q18558195,conjunctivitis,Q167844
+951,obo.DOID_9709,rosacea conjunctivitis,Q18558196,conjunctivitis,Q167844
+952,obo.DOID_11988,conjunctival concretion,Q5161171,conjunctival deposit,Q18554139
+953,obo.DOID_11594,ring staphyloma,Q18554115,scleral staphyloma,Q18554116
+954,obo.DOID_13787,localized anterior staphyloma,Q18554597,scleral staphyloma,Q18554116
+955,obo.DOID_13788,equatorial staphyloma,Q18554598,scleral staphyloma,Q18554116
+956,obo.DOID_13789,staphyloma posticum,Q18554599,scleral staphyloma,Q18554116
+957,obo.DOID_13676,posterior scleritis,Q18554577,scleritis,Q511000
+958,obo.DOID_13794,anterior scleritis,Q18554603,scleritis,Q511000
+959,obo.DOID_13861,scleroperikeratitis,Q18554619,scleritis,Q511000
+960,obo.DOID_14523,Argyll Robertson pupil,Q652568,abnormal pupillary function,Q18554099
+961,obo.DOID_11831,cortical blindness,Q895871,visual cortex disease,Q18556943
+962,obo.DOID_9724,purulent endophthalmitis,Q18558202,endophthalmitis,Q1294912
+963,obo.DOID_9698,gonococcal endophthalmia,Q18558193,endophthalmitis,Q1294912
+964,obo.DOID_11864,peripheral focal chorioretinitis,Q18554199,focal chorioretinitis,Q18554953
+965,obo.DOID_0050786,iridogoniodysgenesis syndrome,Q17125601,iris disease,Q18555070
+966,obo.DOID_12271,aniridia,Q548719,iris disease,Q18555070
+967,obo.DOID_1406,iritis,Q2346396,iris disease,Q18555070
+968,obo.DOID_4353,ciliary body disease,Q18556290,iris disease,Q18555070
+969,obo.DOID_11406,choroiditis,Q3693917,choroid disease,Q18554701
+970,obo.DOID_1415,Gyrate atrophy of the choroid,Q3629047,choroid disease,Q18554701
+971,obo.DOID_9821,choroideremia,Q2397009,choroid disease,Q18554701
+972,obo.DOID_12030,panuveitis,Q18554228,uveitis,Q280027
+973,obo.DOID_12732,intermediate uveitis,Q8511208,uveitis,Q280027
+974,obo.DOID_13140,suppurative uveitis,Q18554449,uveitis,Q280027
+976,obo.DOID_11661,tritanopia,Q18554140,color blindness,Q133696
+978,obo.DOID_13910,protanopia,Q1300720,color blindness,Q133696
+979,obo.DOID_13912,acquired color blindness,Q18554628,color blindness,Q133696
+980,obo.DOID_10965,spastic diplegia,Q3029045,spastic cerebral palsy,Q7573995
+981,obo.DOID_10967,spastic hemiplegia,Q7573994,spastic cerebral palsy,Q7573995
+982,obo.DOID_10968,spastic monoplegia,Q18553982,spastic cerebral palsy,Q7573995
+983,obo.DOID_10970,spastic quadriplegia,Q3985306,spastic cerebral palsy,Q7573995
+984,obo.DOID_0050703,infancy electroclinical syndrome,Q18553413,electroclinical syndrome,Q18553411
+985,obo.DOID_0050702,neonatal period electroclinical syndrome,Q18553412,electroclinical syndrome,Q18553411
+986,obo.DOID_0070309,absence seizure,Q2346980,electroclinical syndrome,Q18553411
+987,obo.DOID_0050706,variable age at onset electroclinical syndrome,Q18553416,electroclinical syndrome,Q18553411
+988,obo.DOID_0080471,infantile or early childhood epileptic encephalopathy 2,Q61913488,electroclinical syndrome,Q18553411
+989,obo.DOID_0080472,infantile or early childhood epileptic encephalopathy 1,Q61913489,electroclinical syndrome,Q18553411
+991,obo.DOID_0060475,childhood onset epileptic encephalopathy,Q21694579,juvenile myoclonic epilepsy,Q543517
+1002,obo.DOID_0111321,juvenile myoclonic epilepsy,Q543517,juvenile myoclonic epilepsy,Q543517
+1005,obo.DOID_3331,frontal lobe epilepsy,Q3204645,focal epilepsy,Q7140388
+1006,obo.DOID_3328,temporal lobe epilepsy,Q616667,focal epilepsy,Q7140388
+1008,obo.DOID_3327,partial motor epilepsy,Q18555381,focal epilepsy,Q7140388
+1009,obo.DOID_3330,partial sensory epilepsy,Q18555382,focal epilepsy,Q7140388
+1010,obo.DOID_5129,Simple partial seizure,Q1132959,focal epilepsy,Q7140388
+1011,obo.DOID_0050835,generalized dystonia,Q18553505,dystonia,Q906492
+1012,obo.DOID_0050836,focal dystonia,Q1428695,dystonia,Q906492
+1013,obo.DOID_0050837,multifocal dystonia,Q18553506,dystonia,Q906492
+1014,obo.DOID_0050838,segmental dystonia,Q18553507,dystonia,Q906492
+1018,obo.DOID_0090041,torsion dystonia 4,Q32038800,dystonia,Q906492
+1019,obo.DOID_0090042,torsion dystonia 17,Q32038801,dystonia,Q906492
+1021,obo.DOID_0090044,dystonia 9,Q32038804,dystonia,Q906492
+1022,obo.DOID_0090045,childhood onset GLUT1 deficiency syndrome 2,Q7139585,dystonia,Q906492
+1023,obo.DOID_0090046,dystonia 21,Q30989832,dystonia,Q906492
+1025,obo.DOID_0090049,paroxysmal nonkinesigenic dyskinesia 1,Q42863543,dystonia,Q906492
+1029,obo.DOID_0111168,Sepiapterin reductase deficiency,Q17156923,dystonia,Q906492
+1035,obo.DOID_14483,chorea gravidarum,Q5105007,choreatic disease,Q1076421
+1036,obo.DOID_0060178,familial hemiplegic migraine,Q3312899,migraine with aura,Q18553762
+1037,obo.DOID_0060785,adult-onset autosomal dominant demyelinating leukodystrophy,Q28065590,leukodystrophy,Q1821559
+1039,obo.DOID_0060868,leukoencephalopathy with vanishing white matter,Q3508563,leukodystrophy,Q1821559
+1043,obo.DOID_10588,X-linked adrenoleukodystrophy,Q366964,leukodystrophy,Q1821559
+1044,obo.DOID_3613,Canavan disease,Q2349546,leukodystrophy,Q1821559
+1045,obo.DOID_4252,Alexander disease,Q567820,leukodystrophy,Q1821559
+1047,obo.DOID_14159,obstructive hydrocephalus,Q18967803,hydrocephalus,Q193003
+1048,obo.DOID_1573,communicating hydrocephalus,Q3791943,hydrocephalus,Q193003
+1052,obo.DOID_0050755,spinocerebellar ataxia with axonal neuropathy type 2,Q18553453,autosomal recessive cerebellar ataxia,Q4826996
+1053,obo.DOID_0050946,Charlevoix-Saguenay spastic ataxia,Q2868786,autosomal recessive cerebellar ataxia,Q4826996
+1056,obo.DOID_0080029,autosomal recessive spinocerebellar ataxia 16,Q21124555,autosomal recessive cerebellar ataxia,Q4826996
+1057,obo.DOID_0080042,autosomal recessive spinocerebellar ataxia 18,Q21124560,autosomal recessive cerebellar ataxia,Q4826996
+1058,obo.DOID_0080057,autosomal recessive spinocerebellar ataxia 15,Q21124566,autosomal recessive cerebellar ataxia,Q4826996
+1059,obo.DOID_0080058,autosomal recessive spinocerebellar ataxia 14,Q21124567,autosomal recessive cerebellar ataxia,Q4826996
+1060,obo.DOID_0080059,autosomal recessive spinocerebellar ataxia 7,Q21124568,autosomal recessive cerebellar ataxia,Q4826996
+1061,obo.DOID_0080060,autosomal recessive spinocerebellar ataxia 12,Q21124570,autosomal recessive cerebellar ataxia,Q4826996
+1065,obo.DOID_0080064,autosomal recessive spinocerebellar ataxia 17,Q21124574,autosomal recessive cerebellar ataxia,Q4826996
+1067,obo.DOID_0080066,autosomal recessive spinocerebellar ataxia 20,Q21124578,autosomal recessive cerebellar ataxia,Q4826996
+1068,obo.DOID_0080259,"spinocerebellar ataxia, autosomal recessive 25",Q53661592,autosomal recessive cerebellar ataxia,Q4826996
+1069,obo.DOID_0080260,"spinocerebellar ataxia, autosomal recessive 26",Q53661595,autosomal recessive cerebellar ataxia,Q4826996
+1070,obo.DOID_0111155,acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome,Q50349821,autosomal recessive cerebellar ataxia,Q4826996
+1071,obo.DOID_12705,Friedreich ataxia,Q913856,autosomal recessive cerebellar ataxia,Q4826996
+1074,obo.DOID_0111613,autosomal recessive cerebellar ataxia-epilepsy-intellectual disability syndrome due to TUD deficiency,Q55345912,autosomal recessive cerebellar ataxia,Q4826996
+1075,obo.DOID_0111614,"spinocerebellar ataxia, autosomal recessive 22; SCAR22",Q55345911,autosomal recessive cerebellar ataxia,Q4826996
+1078,obo.DOID_0111617,infantile-onset autosomal recessive nonprogressive cerebellar ataxia,Q55345791,autosomal recessive cerebellar ataxia,Q4826996
+1080,obo.DOID_12704,ataxia telangiectasia,Q387082,autosomal recessive cerebellar ataxia,Q4826996
+1085,obo.DOID_0050944,spastic ataxia 5,Q21097760,spastic ataxia,Q21082498
+1086,obo.DOID_0050945,spastic ataxia 7,Q21097761,spastic ataxia,Q21082498
+1087,obo.DOID_0080252,spastic ataxia 8,Q53661581,spastic ataxia,Q21082498
+1088,obo.DOID_0050879,fragile X-associated tremor/ataxia syndrome,Q1440436,X-linked cerebellar ataxia,Q21082499
+1089,obo.DOID_0050882,spinocerebellar ataxia type 5,Q18553532,spinocerebellar ataxia,Q899726
+1092,obo.DOID_0050956,spinocerebellar ataxia type 6,Q2868788,spinocerebellar ataxia,Q899726
+1094,obo.DOID_0050958,spinocerebellar ataxia type 7,Q22443706,spinocerebellar ataxia,Q899726
+1096,obo.DOID_0050960,spinocerebellar ataxia type 10,Q21097858,spinocerebellar ataxia,Q899726
+1101,obo.DOID_0050965,spinocerebellar ataxia type 15/16,Q21097863,spinocerebellar ataxia,Q899726
+1102,obo.DOID_0050967,spinocerebellar ataxia type 17,Q21097864,spinocerebellar ataxia,Q899726
+1103,obo.DOID_0050968,"autosomal dominant cerebellar ataxia, deafness and narcolepsy",Q21097765,spinocerebellar ataxia,Q899726
+1104,obo.DOID_0050969,spinocerebellar ataxia type 18,Q21097766,spinocerebellar ataxia,Q899726
+1105,obo.DOID_0050970,spinocerebellar ataxia type 19/22,Q21097767,spinocerebellar ataxia,Q899726
+1106,obo.DOID_0050971,spinocerebellar ataxia type 20,Q21097768,spinocerebellar ataxia,Q899726
+1107,obo.DOID_0050972,spinocerebellar ataxia type 21,Q21097769,spinocerebellar ataxia,Q899726
+1108,obo.DOID_0050973,spinocerebellar ataxia type 23,Q21097865,spinocerebellar ataxia,Q899726
+1109,obo.DOID_0050974,spinocerebellar ataxia type 25,Q21097770,spinocerebellar ataxia,Q899726
+1110,obo.DOID_0050975,spinocerebellar ataxia type 26,Q21097771,spinocerebellar ataxia,Q899726
+1111,obo.DOID_0050976,spinocerebellar ataxia type 27,Q21097867,spinocerebellar ataxia,Q899726
+1112,obo.DOID_0050977,spinocerebellar ataxia type 28,Q21097868,spinocerebellar ataxia,Q899726
+1113,obo.DOID_0050978,spinocerebellar ataxia type 29,Q21097773,spinocerebellar ataxia,Q899726
+1114,obo.DOID_0050979,spinocerebellar ataxia type 30,Q21097774,spinocerebellar ataxia,Q899726
+1116,obo.DOID_0050981,spinocerebellar ataxia type 34,Q5396477,spinocerebellar ataxia,Q899726
+1117,obo.DOID_0050982,spinocerebellar ataxia type 35,Q21097777,spinocerebellar ataxia,Q899726
+1118,obo.DOID_0050983,spinocerebellar ataxia type 36,Q21097778,spinocerebellar ataxia,Q899726
+1119,obo.DOID_0050984,spinocerebellar ataxia type 37,Q21097779,spinocerebellar ataxia,Q899726
+1120,obo.DOID_0050985,spinocerebellar ataxia type 38,Q21097780,spinocerebellar ataxia,Q899726
+1121,obo.DOID_0050986,spinocerebellar ataxia type 40,Q21097781,spinocerebellar ataxia,Q899726
+1122,obo.DOID_0050987,hypomyelinating leukoencephalopathy,Q21097782,spinocerebellar ataxia,Q899726
+1123,obo.DOID_0050988,GRID2-related autosomal dominant spinocerebellar ataxia,Q21082503,spinocerebellar ataxia,Q899726
+1124,obo.DOID_0060162,dentatorubral-pallidoluysian atrophy,Q2280285,spinocerebellar ataxia,Q899726
+1125,obo.DOID_0080286,spinocerebellar ataxia 44,Q53661634,spinocerebellar ataxia,Q899726
+1126,obo.DOID_0080287,spinocerebellar ataxia 45,Q53661636,spinocerebellar ataxia,Q899726
+1127,obo.DOID_0080288,spinocerebellar ataxia 46,Q53661637,spinocerebellar ataxia,Q899726
+1133,obo.DOID_0111747,cerebellar ataxia type 9,Q55345826,spinocerebellar ataxia,Q899726
+1136,obo.DOID_0050990,episodic ataxia type 2,Q2868790,episodic ataxia,Q21503282
+1137,obo.DOID_0050991,episodic ataxia type 3,Q21082504,episodic ataxia,Q21503282
+1138,obo.DOID_0050992,episodic ataxia type 4,Q5383563,episodic ataxia,Q21503282
+1139,obo.DOID_0050993,episodic ataxia type 5,Q21097871,episodic ataxia,Q21503282
+1140,obo.DOID_0050994,episodic ataxia type 6,Q21097872,episodic ataxia,Q21503282
+1141,obo.DOID_0050995,episodic ataxia type 7,Q19001364,episodic ataxia,Q21503282
+1145,obo.DOID_4751,striatonigral degeneration,Q9392705,multiple system atrophy,Q1541975
+1146,obo.DOID_0050783,secondary progressive multiple sclerosis,Q18965511,multiple sclerosis,Q8277
+1147,obo.DOID_0050784,primary progressive multiple sclerosis,Q18553470,multiple sclerosis,Q8277
+1148,obo.DOID_0050785,progressive relapsing multiple sclerosis,Q18553471,multiple sclerosis,Q8277
+1149,obo.DOID_2378,relapsing-remitting multiple sclerosis,Q18555066,multiple sclerosis,Q8277
+1150,obo.DOID_0050752,amyotrophic lateral sclerosis type 8,Q18553451,amyotrophic lateral sclerosis,Q206901
+1156,obo.DOID_0060198,amyotrophic lateral sclerosis type 6,Q18553716,amyotrophic lateral sclerosis,Q206901
+1157,obo.DOID_0060199,amyotrophic lateral sclerosis type 7,Q18966083,amyotrophic lateral sclerosis,Q206901
+1160,obo.DOID_0060202,amyotrophic lateral sclerosis type 11,Q18553719,amyotrophic lateral sclerosis,Q206901
+1162,obo.DOID_0060204,amyotrophic lateral sclerosis type 13,Q18553721,amyotrophic lateral sclerosis,Q206901
+1163,obo.DOID_0060205,amyotrophic lateral sclerosis type 14,Q18553722,amyotrophic lateral sclerosis,Q206901
+1164,obo.DOID_0060206,amyotrophic lateral sclerosis type 15,Q18553723,amyotrophic lateral sclerosis,Q206901
+1165,obo.DOID_0060207,amyotrophic lateral sclerosis type 16,Q18553724,amyotrophic lateral sclerosis,Q206901
+1167,obo.DOID_0060209,amyotrophic lateral sclerosis type 18,Q18553726,amyotrophic lateral sclerosis,Q206901
+1168,obo.DOID_0060210,amyotrophic lateral sclerosis type 19,Q18553727,amyotrophic lateral sclerosis,Q206901
+1169,obo.DOID_0060211,amyotrophic lateral sclerosis type 20,Q18553728,amyotrophic lateral sclerosis,Q206901
+1171,obo.DOID_0060213,FTDALS1,Q18553730,amyotrophic lateral sclerosis,Q206901
+1172,obo.DOID_0060214,FTDALS2,Q18553731,amyotrophic lateral sclerosis,Q206901
+1173,obo.DOID_0060355,amyotrohpic lateral sclerosis type 22,Q21124521,amyotrophic lateral sclerosis,Q206901
+1174,obo.DOID_0080225,amyotrophic lateral sclerosis type 23,Q53660471,amyotrophic lateral sclerosis,Q206901
+1175,obo.DOID_0110067,juvenile amyotrophic lateral sclerosis with dementia,Q27674812,amyotrophic lateral sclerosis,Q206901
+1176,obo.DOID_0110068,FTDALS3,Q27164433,amyotrophic lateral sclerosis,Q206901
+1177,obo.DOID_0110069,FTDALS4,Q27164434,amyotrophic lateral sclerosis,Q206901
+1179,obo.DOID_0060161,Kennedy disease,Q1995327,spinal muscular atrophy,Q580290
+1180,obo.DOID_0070348,Spinal muscular atrophy with lower extremity predominance,Q7577467,spinal muscular atrophy,Q580290
+1182,obo.DOID_0111194,"adult-onset proximal spinal muscular atrophy, autosomal dominant",Q55345681,spinal muscular atrophy,Q580290
+1183,obo.DOID_0111196,X-linked distal spinal muscular atrophy type 3,Q55345735,spinal muscular atrophy,Q580290
+1185,obo.DOID_0111527,Spinal muscular atrophy with progressive myoclonic epilepsy,Q7577468,spinal muscular atrophy,Q580290
+1186,obo.DOID_4873,anterior horn cell disease,Q4771350,spinal muscular atrophy,Q580290
+1187,obo.DOID_0080632,Fazio-Londe disease,Q1399155,progressive bulbar palsy,Q7248833
+1188,obo.DOID_7558,glossopharyngeal motor neuropathy,Q18557648,motor neuritis,Q18557373
+1189,obo.DOID_7559,asymmetric motor neuropathy,Q18557649,motor neuritis,Q18557373
+1192,obo.DOID_0110036,Alzheimer disease 16,Q27677599,Alzheimer's disease,Q11081
+1193,obo.DOID_0110037,Alzheimer disease 5,Q27164428,Alzheimer's disease,Q11081
+1194,obo.DOID_0110038,Alzheimer disease 6,Q27677600,Alzheimer's disease,Q11081
+1205,obo.DOID_0110049,Alzheimer disease 17,Q27677612,Alzheimer's disease,Q11081
+1206,obo.DOID_0110050,Alzheimer disease 18,Q27677613,Alzheimer's disease,Q11081
+1207,obo.DOID_0110051,Alzheimer disease 19,Q27677614,Alzheimer's disease,Q11081
+1210,obo.DOID_0070150,hereditary sensory and autonomic neuropathy type 2B,Q50349716,hereditary sensory and autonomic neuropathy type 2,Q50349727
+1213,obo.DOID_0070154,hereditary sensory neuropathy type 1F,Q50349720,hereditary sensory and autonomic neuropathy type 1,Q50349728
+1216,obo.DOID_0050214,Lambert-Eaton myasthenic syndrome,Q1756898,neuromuscular junction disease,Q7002430
+1222,obo.DOID_0050542,Charcot-Marie-Tooth disease type X,Q3281260,Charcot–Marie–Tooth disease,Q1052687
+1223,obo.DOID_0050543,Charcot-Marie-Tooth disease intermediate type,Q18553298,Charcot–Marie–Tooth disease,Q1052687
+1224,obo.DOID_0080067,Charcot-Marie-tooth disease type 5,Q21124579,Charcot–Marie–Tooth disease,Q1052687
+1227,obo.DOID_12526,tarsal tunnel syndrome,Q1410673,tibial neuropathy,Q18554201
+1228,obo.DOID_12170,radial nerve lesion,Q18554259,radial neuropathy,Q427118
+1229,obo.DOID_572,mononeuritis of upper limb and mononeuritis multiplex,Q18556969,mononeuritis,Q18554914
+1230,obo.DOID_9473,mononeuritis of lower limb,Q18558137,mononeuritis,Q18554914
+1232,obo.DOID_9650,pathologic nystagmus,Q18558185,ocular motility disease,Q18554378
+1233,obo.DOID_1278,tolosa-hunt syndrome,Q370066,ocular motility disease,Q18554378
+1234,obo.DOID_539,ophthalmoplegia,Q1723331,ocular motility disease,Q18554378
+1235,obo.DOID_12010,anterior ischemic optic neuropathy,Q362719,optic nerve disease,Q2879095
+1237,obo.DOID_0111531,Optic nerve hypoplasia,Q7098797,optic nerve disease,Q2879095
+1238,obo.DOID_1210,optic neuritis,Q972514,optic nerve disease,Q2879095
+1239,obo.DOID_13561,optic disk drusen,Q7098792,optic nerve disease,Q2879095
+1240,obo.DOID_146,Papilledema,Q953049,optic nerve disease,Q2879095
+1241,obo.DOID_5655,chiasmal syndrome,Q5095267,optic nerve disease,Q2879095
+1242,obo.DOID_705,Leber hereditary optic neuropathy,Q1262161,optic nerve disease,Q2879095
+1243,obo.DOID_10865,abducens nerve palsy,Q317977,cranial nerve palsy,Q18556080
+1244,obo.DOID_3816,glossopharyngeal nerve paralysis,Q18556079,cranial nerve palsy,Q18556080
+1245,obo.DOID_11550,oculomotor nerve paralysis,Q1670952,third cranial nerve disease,Q18556902
+1246,obo.DOID_12098,trigeminal neuralgia,Q1132120,trigeminal nerve disease,Q18556899
+1247,obo.DOID_12491,Vagus nerve disease,Q18554327,glossopharyngeal nerve disease,Q18555926
+1248,obo.DOID_13814,hypoglossal nerve disease,Q18554612,glossopharyngeal nerve disease,Q18555926
+1249,obo.DOID_13866,multiple cranial nerve palsy,Q18554623,glossopharyngeal nerve disease,Q18555926
+1250,obo.DOID_14423,glossopharyngeal neuralgia,Q11790773,glossopharyngeal nerve disease,Q18555926
+1251,obo.DOID_339,accessory nerve disease,Q4672538,glossopharyngeal nerve disease,Q18555926
+1252,obo.DOID_367,olfactory nerve disease,Q18556015,glossopharyngeal nerve disease,Q18555926
+1253,obo.DOID_13934,facial paralysis,Q7562539,facial nerve disease,Q18554894
+1255,obo.DOID_13865,facial neuralgia,Q2561844,facial nerve disease,Q18554894
+1256,obo.DOID_14075,geniculate ganglionitis,Q5533166,facial nerve disease,Q18554894
+1257,obo.DOID_1757,Parry–Romberg syndrome,Q250365,facial nerve disease,Q18554894
+1258,obo.DOID_1761,Melkersson-Rosenthal syndrome,Q1919487,facial nerve disease,Q18554894
+1259,obo.DOID_4306,radiculopathy,Q175180,polyradiculopathy,Q18556278
+1260,obo.DOID_13941,benign paroxysmal positional nystagmus,Q817310,peripheral vertigo,Q18558240
+1261,obo.DOID_9848,endolymphatic hydrops,Q9376235,peripheral vertigo,Q18558240
+1262,obo.DOID_12357,viral labyrinthitis,Q18554305,labyrinthitis,Q2038371
+1263,obo.DOID_13534,purulent labyrinthitis,Q18554539,labyrinthitis,Q2038371
+1264,obo.DOID_13867,focal labyrinthitis,Q18554624,labyrinthitis,Q2038371
+1265,obo.DOID_14081,toxic labyrinthitis,Q18554678,labyrinthitis,Q2038371
+1267,obo.DOID_10435,purulent acute otitis media,Q3887115,suppurative otitis media,Q18554096
+1268,obo.DOID_14247,chronic purulent otitis media,Q1088055,suppurative otitis media,Q18554096
+1269,obo.DOID_14435,chronic tubotympanic suppurative otitis media,Q18554761,suppurative otitis media,Q18554096
+1270,obo.DOID_11181,serous glue ear,Q2058432,non-suppurative otitis media,Q18554024
+1271,obo.DOID_3697,acute transudative otitis media,Q18556028,non-suppurative otitis media,Q18554024
+1272,obo.DOID_9739,eustachian tube disease,Q18558207,non-suppurative otitis media,Q18554024
+1273,obo.DOID_10519,chronic fungal otitis externa,Q18553878,otomycosis,Q560456
+1274,obo.DOID_14243,chronic perichondritis of pinna,Q18554716,perichondritis of auricle,Q2070842
+1275,obo.DOID_221,acute perichondritis of pinna,Q18555026,perichondritis of auricle,Q2070842
+1276,obo.DOID_13474,progressive peripheral pterygium,Q18554523,conjunctival pterygium,Q18966403
+1277,obo.DOID_0060447,epithelial basement membrane dystrophy,Q4162388,epithelial and subepithelial dystrophy,Q21154080
+1278,obo.DOID_0060449,gelatinous drop-like corneal dystrophy,Q4178686,epithelial and subepithelial dystrophy,Q21154080
+1279,obo.DOID_0060450,Lisch epithelial corneal dystrophy,Q4162391,epithelial and subepithelial dystrophy,Q21154080
+1280,obo.DOID_0060451,Meesmann corneal dystrophy,Q4162392,epithelial and subepithelial dystrophy,Q21154080
+1281,obo.DOID_0060454,subepithelial mucinous corneal dystrophy,Q4445097,epithelial and subepithelial dystrophy,Q21154080
+1282,obo.DOID_0070337,Epithelial recurrent erosion dystrophy,Q51728449,epithelial and subepithelial dystrophy,Q21154080
+1283,obo.DOID_12318,corneal granular dystrophy,Q5596720,epithelial-stromal TGFBI dystrophy,Q21154081
+1284,obo.DOID_0060453,Reis-Bücklers corneal dystrophy,Q4162390,epithelial-stromal TGFBI dystrophy,Q21154081
+1285,obo.DOID_0060455,Thiel-Behnke corneal dystrophy,Q4162389,epithelial-stromal TGFBI dystrophy,Q21154081
+1286,obo.DOID_8943,lattice corneal dystrophy,Q4394144,epithelial-stromal TGFBI dystrophy,Q21154081
+1287,obo.DOID_0060445,congenital stromal corneal dystrophy,Q4127187,stromal dystrophy,Q21154082
+1288,obo.DOID_0060448,Fleck corneal dystrophy,Q4237691,stromal dystrophy,Q21154082
+1289,obo.DOID_0060452,posterior amorphous corneal dystrophy,Q4183962,stromal dystrophy,Q21154082
+1290,obo.DOID_0060456,Schnyder corneal dystrophy,Q4162393,stromal dystrophy,Q21154082
+1291,obo.DOID_2565,macular corneal dystrophy,Q4385926,stromal dystrophy,Q21154082
+1292,obo.DOID_0060446,X-linked endothelial corneal dystrophy,Q4053279,corneal endothelial dystrophy,Q21154083
+1294,obo.DOID_0060649,congenital hereditary endothelial dystrophy of cornea,Q4127191,corneal endothelial dystrophy,Q21154083
+1295,obo.DOID_11555,Fuchs' endothelial dystrophy,Q1464888,corneal endothelial dystrophy,Q21154083
+1296,obo.DOID_10439,Mooren's ulcer,Q18553863,corneal ulcer,Q1628473
+1297,obo.DOID_10440,mycotic corneal ulcer,Q18553864,corneal ulcer,Q1628473
+1298,obo.DOID_10441,marginal corneal ulcer,Q18553865,corneal ulcer,Q1628473
+1299,obo.DOID_10444,ring corneal ulcer,Q18553867,corneal ulcer,Q1628473
+1300,obo.DOID_10445,perforated corneal ulcer,Q18553868,corneal ulcer,Q1628473
+1301,obo.DOID_9910,central corneal ulcer,Q18558256,corneal ulcer,Q1628473
+1302,obo.DOID_12087,deep corneal vascularisation,Q18554235,corneal neovascularization,Q1266519
+1303,obo.DOID_11543,corneal abscess,Q18554102,deep keratitis,Q18558244
+1304,obo.DOID_14444,sclerosing keratitis,Q18554762,deep keratitis,Q18558244
+1305,obo.DOID_9306,mechanical strabismus,Q18558101,strabismus,Q179951
+1307,obo.DOID_10863,paralytic squint,Q18553959,strabismus,Q179951
+1308,obo.DOID_1143,exotropia,Q2556242,strabismus,Q179951
+1309,obo.DOID_12445,conjugate gaze palsy,Q884023,strabismus,Q179951
+1311,obo.DOID_12667,binocular vision disease,Q18554359,strabismus,Q179951
+1312,obo.DOID_1942,intermittent squint,Q18554946,strabismus,Q179951
+1313,obo.DOID_538,internuclear ophthalmoplegia,Q203696,ophthalmoplegia,Q1723331
+1314,obo.DOID_9837,hypertropia,Q17145626,strabismus,Q179951
+1315,obo.DOID_9838,cyclotropia,Q17085142,strabismus,Q179951
+1316,obo.DOID_9841,hypotropia,Q18558238,strabismus,Q179951
+1317,obo.DOID_9843,monofixation syndrome,Q6901575,strabismus,Q179951
+1318,obo.DOID_0080264,exudative vitreoretinopathy 7,Q53661599,exudative vitreoretinopathy,Q5432936
+1326,obo.DOID_13208,background diabetic retinopathy,Q18554467,diabetic retinopathy,Q631361
+1327,obo.DOID_8946,severe nonproliferative diabetic retinopathy,Q18558039,diabetic retinopathy,Q631361
+1328,obo.DOID_9191,diabetic macular edema,Q18558081,diabetic retinopathy,Q631361
+1329,obo.DOID_7765,Coats disease,Q915322,retinal telangiectasia,Q6725785
+1331,obo.DOID_4447,cystoid macular edema,Q18556331,macular retinal edema,Q1813737
+1332,obo.DOID_11211,buphthalmos,Q4305015,hydrophthalmos,Q1640324
+1333,obo.DOID_1068,juvenile glaucoma,Q3771926,primary open angle glaucoma,Q18553921
+1334,obo.DOID_13549,interval angle-closure glaucoma,Q3771929,primary angle-closure glaucoma,Q18554668
+1335,obo.DOID_13862,acute closed-angle glaucoma,Q3108581,primary angle-closure glaucoma,Q18554668
+1336,obo.DOID_1404,residual stage angle-closure glaucoma,Q18554665,primary angle-closure glaucoma,Q18554668
+1337,obo.DOID_14445,chronic closed-angle glaucoma,Q18554763,primary angle-closure glaucoma,Q18554668
+1338,obo.DOID_10997,immature cataract,Q18553989,senile cataract,Q18558188
+1340,obo.DOID_13717,mature cataract,Q18554584,senile cataract,Q18558188
+1341,obo.DOID_13963,nuclear senile cataract,Q18554649,senile cataract,Q18558188
+1342,obo.DOID_13964,Morgagni cataract,Q18554650,senile cataract,Q18558188
+1345,obo.DOID_0111006,X-linked cone-rod dystrophy 2,Q32145951,cone-rod dystrophy,Q18553315
+1346,obo.DOID_0111007,X-linked cone-rod dystrophy 3,Q32145967,cone-rod dystrophy,Q18553315
+1351,obo.DOID_0111012,cone-rod dystrophy 7,Q32146040,cone-rod dystrophy,Q18553315
+1354,obo.DOID_0111015,Newfoundland cone-rod dystrophy,Q32146085,cone-rod dystrophy,Q18553315
+1359,obo.DOID_0111020,cone-rod dystrophy 9,Q32146150,cone-rod dystrophy,Q18553315
+1365,obo.DOID_0111026,cone-rod dystrophy 20,Q32146228,cone-rod dystrophy,Q18553315
+1366,obo.DOID_0050578,occult macular dystrophy,Q18553320,macular degeneration,Q27429789
+1367,obo.DOID_0050661,vitelliform macular dystrophy,Q830265,macular degeneration,Q27429789
+1368,obo.DOID_0050662,bestrophinopathy,Q18553385,macular degeneration,Q27429789
+1370,obo.DOID_2007,degeneration of macula and posterior pole,Q16678480,macular degeneration,Q27429789
+1371,obo.DOID_0060763,X-linked retinoschisis,Q3458131,retinoschisis,Q1049881
+1372,obo.DOID_12108,bullous retinoschisis,Q18554239,retinoschisis,Q1049881
+1373,obo.DOID_8464,flat retinoschisis,Q18557947,retinoschisis,Q1049881
+1374,obo.DOID_0080292,retinitis pigmentosa 81,Q53661791,retinitis pigmentosa,Q847057
+1376,obo.DOID_0110352,retinitis pigmentosa 59,Q27677752,retinitis pigmentosa,Q847057
+1383,obo.DOID_0110359,retinitis pigmentosa 67,Q27677759,retinitis pigmentosa,Q847057
+1384,obo.DOID_0110360,retinitis pigmentosa 39,Q27674948,retinitis pigmentosa,Q847057
+1385,obo.DOID_0110361,retinitis pigmentosa 75,Q27674949,retinitis pigmentosa,Q847057
+1386,obo.DOID_0110362,retinitis pigmentosa 58,Q27677760,retinitis pigmentosa,Q847057
+1388,obo.DOID_0110364,retinitis pigmentosa 54,Q27677761,retinitis pigmentosa,Q847057
+1391,obo.DOID_0110367,retinitis pigmentosa 38,Q27677764,retinitis pigmentosa,Q847057
+1393,obo.DOID_0110369,retinitis pigmentosa 47,Q27677766,retinitis pigmentosa,Q847057
+1394,obo.DOID_0110370,retinitis pigmentosa 55,Q27677767,retinitis pigmentosa,Q847057
+1395,obo.DOID_0110371,retinitis pigmentosa 56,Q27677768,retinitis pigmentosa,Q847057
+1397,obo.DOID_0110373,retinitis pigmentosa 61,Q27677770,retinitis pigmentosa,Q847057
+1398,obo.DOID_0110374,retinitis pigmentosa 68,Q27677771,retinitis pigmentosa,Q847057
+1399,obo.DOID_0110375,retinitis pigmentosa 40,Q27677773,retinitis pigmentosa,Q847057
+1401,obo.DOID_0110377,retinitis pigmentosa 49,Q27677775,retinitis pigmentosa,Q847057
+1402,obo.DOID_0110378,retinitis pigmentosa 29,Q27677776,retinitis pigmentosa,Q847057
+1403,obo.DOID_0110379,retinitis pigmentosa 43,Q27677777,retinitis pigmentosa,Q847057
+1404,obo.DOID_0110380,retinitis pigmentosa 62,Q27677779,retinitis pigmentosa,Q847057
+1406,obo.DOID_0110382,retinitis pigmentosa 48,Q27677781,retinitis pigmentosa,Q847057
+1409,obo.DOID_0110385,retinitis pigmentosa 63,Q27677784,retinitis pigmentosa,Q847057
+1410,obo.DOID_0110386,retinitis pigmentosa 42,Q27677785,retinitis pigmentosa,Q847057
+1413,obo.DOID_0110389,retinitis pigmentosa 73,Q27674955,retinitis pigmentosa,Q847057
+1416,obo.DOID_0110392,retinitis pigmentosa 70,Q27677790,retinitis pigmentosa,Q847057
+1417,obo.DOID_0110393,retinitis pigmentosa 66,Q27677792,retinitis pigmentosa,Q847057
+1418,obo.DOID_0110394,retinitis pigmentosa 44,Q27677793,retinitis pigmentosa,Q847057
+1419,obo.DOID_0110395,retinitis pigmentosa 72,Q27674958,retinitis pigmentosa,Q847057
+1420,obo.DOID_0110396,retinitis pigmentosa 50,Q27677794,retinitis pigmentosa,Q847057
+1422,obo.DOID_0110398,retinitis pigmentosa 51,Q27677796,retinitis pigmentosa,Q847057
+1425,obo.DOID_0110401,retinitis pigmentosa 74,Q27674960,retinitis pigmentosa,Q847057
+1426,obo.DOID_0110402,retinitis pigmentosa 45,Q27677800,retinitis pigmentosa,Q847057
+1430,obo.DOID_0110406,retinitis pigmentosa 30,Q27677804,retinitis pigmentosa,Q847057
+1431,obo.DOID_0110407,retinitis pigmentosa 57,Q27677805,retinitis pigmentosa,Q847057
+1433,obo.DOID_0110409,retinitis pigmentosa 46,Q27677807,retinitis pigmentosa,Q847057
+1434,obo.DOID_0110410,retinitis pigmentosa 69,Q27677808,retinitis pigmentosa,Q847057
+1435,obo.DOID_0110411,retinitis pigmentosa 60,Q27677809,retinitis pigmentosa,Q847057
+1442,obo.DOID_0110418,retinitis pigmentosa Y-linked,Q27677816,retinitis pigmentosa,Q847057
+1443,obo.DOID_0110419,retinitis pigmentosa with or without situs inversus,Q27677817,retinitis pigmentosa,Q847057
+1444,obo.DOID_0110420,dominant pericentral pigmentary retinopathy,Q27677818,retinitis pigmentosa,Q847057
+1445,obo.DOID_0110421,late-adult onset retinitis pigmentosa,Q27677819,retinitis pigmentosa,Q847057
+1446,obo.DOID_0110422,autosomal recessive pericentral pigmentary retinopathy,Q27677820,retinitis pigmentosa,Q847057
+1447,obo.DOID_12162,pseudoretinitis pigmentosa,Q18554251,peripheral retinal degeneration,Q18554249
+1448,obo.DOID_12163,senile reticular retinal degeneration,Q18554252,peripheral retinal degeneration,Q18554249
+1449,obo.DOID_12164,Blessig's cysts,Q18554253,peripheral retinal degeneration,Q18554249
+1450,obo.DOID_12165,retinal lattice degeneration,Q17139523,peripheral retinal degeneration,Q18554249
+1451,obo.DOID_12166,cobblestone retinal degeneration,Q18554255,peripheral retinal degeneration,Q18554249
+1452,obo.DOID_12167,secondary vitreoretinal degeneration,Q18554256,peripheral retinal degeneration,Q18554249
+1453,obo.DOID_9811,partial circumpapillary choroid dystrophy,Q18558231,hereditary choroidal atrophy,Q18558224
+1454,obo.DOID_9822,partial central choroid dystrophy,Q18558233,hereditary choroidal atrophy,Q18558224
+1455,obo.DOID_9842,total circumpapillary dystrophy of choroid,Q18558239,hereditary choroidal atrophy,Q18558224
+1456,obo.DOID_12996,acute dacryocystitis,Q18554414,dacryocystitis,Q1157761
+1457,obo.DOID_12997,Phlegmonous dacryocystitis,Q18554415,dacryocystitis,Q1157761
+1458,obo.DOID_9937,chronic dacryocystitis,Q18558261,dacryocystitis,Q1157761
+1459,obo.DOID_11190,pseudomembranous conjunctivitis,Q18554029,acute conjunctivitis,Q18554026
+1460,obo.DOID_11197,serous conjunctivitis except viral,Q18554031,acute conjunctivitis,Q18554026
+1461,obo.DOID_11213,acute contagious conjunctivitis,Q18573393,acute conjunctivitis,Q18554026
+1462,obo.DOID_11219,conjunctival folliculosis,Q18554036,acute conjunctivitis,Q18554026
+1463,obo.DOID_11204,allergic conjunctivitis,Q471521,chronic conjunctivitis,Q18555092
+1464,obo.DOID_13326,chronic follicular conjunctivitis,Q18554487,chronic conjunctivitis,Q18555092
+1465,obo.DOID_13341,parasitic conjunctivitis,Q18554493,chronic conjunctivitis,Q18555092
+1466,obo.DOID_2474,vernal conjunctivitis,Q4119259,chronic conjunctivitis,Q18555092
+1467,obo.DOID_9512,simple chronic conjunctivitis,Q18558151,chronic conjunctivitis,Q18555092
+1469,obo.DOID_9699,ophthalmia neonatorum,Q18558194,bacterial conjunctivitis,Q18558195
+1470,obo.DOID_14287,brawny scleritis,Q18554737,anterior scleritis,Q18554603
+1471,obo.DOID_10697,chronic endophthalmitis,Q18553920,purulent endophthalmitis,Q18558202
+1472,obo.DOID_11752,acute endophthalmitis,Q18554163,purulent endophthalmitis,Q18558202
+1473,obo.DOID_13732,panophthalmitis,Q1378675,purulent endophthalmitis,Q18558202
+1474,obo.DOID_12574,posterior uveitis,Q18554348,panuveitis,Q18554228
+1475,obo.DOID_12029,sympathetic ophthalmia,Q2037487,panuveitis,Q18554228
+1476,obo.DOID_1407,anterior uveitis,Q3154357,panuveitis,Q18554228
+1481,obo.DOID_0110010,achromatopsia 4,Q27677587,achromatopsia,Q432396
+1482,obo.DOID_0050562,West syndrome,Q1041258,infancy electroclinical syndrome,Q18553413
+1483,obo.DOID_0060169,benign familial infantile epilepsy,Q4887955,infancy electroclinical syndrome,Q18553413
+1486,obo.DOID_14264,benign neonatal seizures,Q15975183,neonatal period electroclinical syndrome,Q18553412
+1487,obo.DOID_14777,benign familial neonatal epilepsy,Q4887956,neonatal period electroclinical syndrome,Q18553412
+1488,obo.DOID_308,early myoclonic encephalopathy,Q5326887,neonatal period electroclinical syndrome,Q18553412
+1489,obo.DOID_0050704,childhood electroclinical syndrome,Q18553414,absence seizure,Q2346980
+1490,obo.DOID_0050705,adolescence-adult electroclinical syndrome,Q18553415,absence seizure,Q2346980
+1492,obo.DOID_2548,reflex epilepsy,Q2895354,variable age at onset electroclinical syndrome,Q18553416
+1500,obo.DOID_0111302,generalized epilepsy with febrile seizures plus,Q16909671,generalized epilepsy with febrile seizures plus,Q16909671
+1502,obo.DOID_0060748,familial temporal lobe epilepsy 1,Q28065551,temporal lobe epilepsy,Q616667
+1505,obo.DOID_0060751,familial temporal lobe epilepsy 7,Q3589154,temporal lobe epilepsy,Q616667
+1506,obo.DOID_0060752,familial temporal lobe epilepsy 5,Q28065555,temporal lobe epilepsy,Q616667
+1512,obo.DOID_0090058,torsion dystonia with onset in infancy,Q30988815,generalized dystonia,Q18553505
+1513,obo.DOID_0050839,anismus,Q3961657,focal dystonia,Q1428695
+1514,obo.DOID_0050840,cervical dystonia,Q6152510,focal dystonia,Q1428695
+1515,obo.DOID_0050841,focal hand dystonia,Q1558317,focal dystonia,Q1428695
+1516,obo.DOID_0050842,oculogyric crisis,Q4333327,focal dystonia,Q1428695
+1517,obo.DOID_0050843,oromandibular dystonia,Q73828,focal dystonia,Q1428695
+1518,obo.DOID_0050844,spasmodic dystonia,Q1782574,focal dystonia,Q1428695
+1519,obo.DOID_0050845,cranio-facial dystonia,Q18553510,focal dystonia,Q1428695
+1520,obo.DOID_0090040,torsion dystonia 7,Q32038795,focal dystonia,Q1428695
+1521,obo.DOID_0090051,dystonia 23,Q30989447,focal dystonia,Q1428695
+1523,obo.DOID_0090057,X-linked dystonia-parkinsonism,Q3042159,focal dystonia,Q1428695
+1524,obo.DOID_529,blepharospasm,Q883863,focal dystonia,Q1428695
+1525,obo.DOID_0050846,hemidystonia,Q18553511,multifocal dystonia,Q18553506
+1527,obo.DOID_0090055,dystonia 25,Q30989665,multifocal dystonia,Q18553506
+1528,obo.DOID_0090050,dystonia 27,Q30989757,segmental dystonia,Q18553507
+1530,obo.DOID_0090035,myoclonic dystonia 15,Q32038779,myoclonic dystonia,Q3710440
+1531,obo.DOID_0090036,myoclonic dystonia 26,Q30989223,myoclonic dystonia,Q3710440
+1537,obo.DOID_0060789,hypomyelinating leukodystrophy 4,Q28065594,hypomyelinating leukodystrophy,Q28065591
+1538,obo.DOID_0060790,hypomyelinating leukodystrophy 3,Q28065595,hypomyelinating leukodystrophy,Q28065591
+1539,obo.DOID_0060791,hypomyelinating leukodystrophy 9,Q28065596,hypomyelinating leukodystrophy,Q28065591
+1542,obo.DOID_0060794,hypomyelinating leukodystrophy 7 with or without oligodontia and-or hypogonadotropic hypogonadism,Q28065599,hypomyelinating leukodystrophy,Q28065591
+1543,obo.DOID_0060795,hypomyelinating leukodystrophy 13,Q28065600,hypomyelinating leukodystrophy,Q28065591
+1544,obo.DOID_0060796,hypomyelinating leukodystrophy 12,Q28065601,hypomyelinating leukodystrophy,Q28065591
+1545,obo.DOID_0060797,hypomyelinating leukodystrophy 8 with or without oligodontia and-or hypogonadotropic hypogonadism,Q28065602,hypomyelinating leukodystrophy,Q28065591
+1546,obo.DOID_0060798,hypomyelinating leukodystrophy 6,Q28065603,hypomyelinating leukodystrophy,Q28065591
+1547,obo.DOID_0080296,hypomyelinating leukodystrophy 14,Q53661795,hypomyelinating leukodystrophy,Q28065591
+1548,obo.DOID_3210,Pelizaeus-Merzbacher disease,Q1876206,hypomyelinating leukodystrophy,Q28065591
+1549,obo.DOID_0080316,megalencephalic leukoencephalopathy with subcortical cysts 1,Q55373617,Megalencephalic leukoencephalopathy with subcortical cysts,Q3237080
+1552,obo.DOID_0111035,CADASIL 1,Q32146322,CADASIL,Q1022718
+1553,obo.DOID_0111036,"cerebral arteriopathy, autosomal dominant, with subcortical infarcts and leukoencephalopathy, type 2",Q32146338,CADASIL,Q1022718
+1554,obo.DOID_1572,normal pressure hydrocephalus,Q1712213,communicating hydrocephalus,Q3791943
+1555,obo.DOID_0111218,Friedreich ataxia,Q913856,Friedreich ataxia,Q913856
+1569,obo.DOID_0060556,Kufor-Rakeb syndrome,Q6441908,young-onset Parkinson disease,Q32136833
+1574,obo.DOID_0050529,adult spinal muscular atrophy,Q18553288,survival motor neuron spinal muscular atrophy,Q50357578
+1575,obo.DOID_0050530,intermediate spinal muscular atrophy,Q18553289,survival motor neuron spinal muscular atrophy,Q50357578
+1576,obo.DOID_12376,juvenile spinal muscular atrophy,Q18554312,survival motor neuron spinal muscular atrophy,Q50357578
+1577,obo.DOID_13137,Werdnig–Hoffmann disease,Q2362826,survival motor neuron spinal muscular atrophy,Q50357578
+1580,obo.DOID_0070351,Spinal muscular atrophy with lower extremity predominance,Q7577467,Spinal muscular atrophy with lower extremity predominance,Q7577467
+1592,obo.DOID_0080587,congenital myasthenic syndrome 22,Q66804111,congenital myasthenic syndrome,Q3508800
+1593,obo.DOID_0110657,congenital myasthenic syndrome 8,Q32139880,congenital myasthenic syndrome,Q3508800
+1594,obo.DOID_0110658,congenital myasthenic syndrome 15,Q32139891,congenital myasthenic syndrome,Q3508800
+1597,obo.DOID_0110661,congenital myasthenic syndrome 20,Q32139932,congenital myasthenic syndrome,Q3508800
+1601,obo.DOID_0110665,congenital myasthenic syndrome 3B,Q32139982,congenital myasthenic syndrome,Q3508800
+1606,obo.DOID_0110670,congenital myasthenic syndrome 9,Q32140045,congenital myasthenic syndrome,Q3508800
+1607,obo.DOID_0110671,congenital myasthenic syndrome 6,Q32140059,congenital myasthenic syndrome,Q3508800
+1609,obo.DOID_0110673,congenital myasthenic syndrome 19,Q32140086,congenital myasthenic syndrome,Q3508800
+1612,obo.DOID_0110676,congenital myasthenic syndrome 13,Q32140125,congenital myasthenic syndrome,Q3508800
+1613,obo.DOID_0110677,congenital myasthenic syndrome 4B,Q32140138,congenital myasthenic syndrome,Q3508800
+1620,obo.DOID_0110148,Charcot-Marie-Tooth disease type 1A,Q9190339,Charcot-Marie-Tooth disease type 1,Q3281253
+1630,obo.DOID_0110157,Charcot-Marie-Tooth disease type 2J,Q27164463,Charcot-Marie-Tooth disease type 2,Q3281254
+1631,obo.DOID_0110158,Charcot-Marie-Tooth disease type 2I,Q27164464,Charcot-Marie-Tooth disease type 2,Q3281254
+1634,obo.DOID_0110161,Charcot-Marie-Tooth disease type 2R,Q27164468,Charcot-Marie-Tooth disease type 2,Q3281254
+1635,obo.DOID_0110162,"Charcot-Marie-Tooth disease, axonal type 2W",Q27164469,Charcot-Marie-Tooth disease type 2,Q3281254
+1636,obo.DOID_0110163,Charcot-Marie-Tooth disease axonal type 2F,Q27164470,Charcot-Marie-Tooth disease type 2,Q3281254
+1641,obo.DOID_0110168,Charcot-Marie-Tooth disease type 2Y,Q27164476,Charcot-Marie-Tooth disease type 2,Q3281254
+1644,obo.DOID_0110171,Charcot-Marie-Tooth disease axonal type 2S,Q27164480,Charcot-Marie-Tooth disease type 2,Q3281254
+1645,obo.DOID_0110173,Charcot-Marie-Tooth disease axonal type 2U,Q27164482,Charcot-Marie-Tooth disease type 2,Q3281254
+1646,obo.DOID_0110174,Charcot-Marie-Tooth disease axonal type 2L,Q27164483,Charcot-Marie-Tooth disease type 2,Q3281254
+1647,obo.DOID_0110175,Charcot-Marie-Tooth disease axonal type 20,Q27164484,Charcot-Marie-Tooth disease type 2,Q3281254
+1648,obo.DOID_0110176,Charcot-Marie-Tooth disease axonal type 2X,Q27164485,Charcot-Marie-Tooth disease type 2,Q3281254
+1649,obo.DOID_0110177,Charcot-Marie-Tooth disease axonal type 2N,Q27164486,Charcot-Marie-Tooth disease type 2,Q3281254
+1650,obo.DOID_0110178,Charcot-Marie-Tooth disease axonal type 2V,Q27164487,Charcot-Marie-Tooth disease type 2,Q3281254
+1652,obo.DOID_0110180,Charcot-Marie-Tooth disease axonal type 2CC,Q27164490,Charcot-Marie-Tooth disease type 2,Q3281254
+1653,obo.DOID_0110181,Charcot-Marie-Tooth disease axonal type 2Z,Q27164491,Charcot-Marie-Tooth disease type 2,Q3281254
+1659,obo.DOID_0110184,Charcot-Marie-Tooth disease type 4J,Q27677648,Charcot-Marie-Tooth disease type 4,Q3281259
+1661,obo.DOID_0110186,Charcot-Marie-Tooth disease type 4D,Q27677650,Charcot-Marie-Tooth disease type 4,Q3281259
+1666,obo.DOID_0110193,Charcot-Marie-Tooth disease type 4F,Q27677655,Charcot-Marie-Tooth disease type 4,Q3281259
+1668,obo.DOID_0110195,Charcot-Marie-Tooth disease type 4E,Q27677657,Charcot-Marie-Tooth disease type 4,Q3281259
+1670,obo.DOID_0110207,Charcot-Marie-Tooth disease X-linked dominant 6,Q27677671,Charcot-Marie-Tooth disease type X,Q3281260
+1671,obo.DOID_0110208,Charcot-Marie-Tooth disease X-linked recessive 2,Q27677672,Charcot-Marie-Tooth disease type X,Q3281260
+1672,obo.DOID_0110209,Charcot-Marie-Tooth disease X-linked dominant 1,Q27677673,Charcot-Marie-Tooth disease type X,Q3281260
+1673,obo.DOID_0110210,Charcot-Marie-Tooth disease X-linked recessive 5,Q27677674,Charcot-Marie-Tooth disease type X,Q3281260
+1674,obo.DOID_0110211,Charcot-Marie-Tooth disease X-linked recessive 3,Q27677675,Charcot-Marie-Tooth disease type X,Q3281260
+1675,obo.DOID_0110212,Charcot-Marie-Tooth disease X-linked recessive 4,Q27677676,Charcot-Marie-Tooth disease type X,Q3281260
+1677,obo.DOID_0110197,Charcot-Marie-Tooth disease dominant intermediate B,Q27677659,Charcot-Marie-Tooth disease intermediate type,Q18553298
+1680,obo.DOID_0110200,Charcot-Marie-Tooth disease dominant intermediate D,Q27677663,Charcot-Marie-Tooth disease intermediate type,Q18553298
+1683,obo.DOID_0110203,Charcot-Marie-Tooth disease recessive intermediate D,Q27677666,Charcot-Marie-Tooth disease intermediate type,Q18553298
+1684,obo.DOID_0110204,Charcot-Marie-Tooth disease recessive intermediate B,Q27677667,Charcot-Marie-Tooth disease intermediate type,Q18553298
+1685,obo.DOID_0110205,Charcot-Marie-Tooth disease dominant intermediate E,Q27677669,Charcot-Marie-Tooth disease intermediate type,Q18553298
+1686,obo.DOID_0110206,Charcot-Marie-Tooth disease dominant intermediate F,Q27677670,Charcot-Marie-Tooth disease intermediate type,Q18553298
+1687,obo.DOID_12168,ulnar nerve lesion,Q18554257,mononeuritis of upper limb and mononeuritis multiplex,Q18556969
+1688,obo.DOID_1835,mononeuritis multiplex,Q18554918,mononeuritis of upper limb and mononeuritis multiplex,Q18556969
+1689,obo.DOID_1844,mononeuritis of upper limb,Q18554920,mononeuritis of upper limb and mononeuritis multiplex,Q18556969
+1690,obo.DOID_571,median nerve neuropathy,Q18556959,mononeuritis of upper limb and mononeuritis multiplex,Q18556969
+1691,obo.DOID_12528,lesion of sciatic nerve,Q18554334,mononeuritis of lower limb,Q18558137
+1692,obo.DOID_12524,plantar nerve lesion,Q18554332,mononeuritis of lower limb,Q18558137
+1693,obo.DOID_12527,common peroneal nerve lesion,Q18554333,mononeuritis of lower limb,Q18558137
+1694,obo.DOID_12529,tibial nerve palsy,Q18554335,mononeuritis of lower limb,Q18558137
+1695,obo.DOID_11771,spontaneous ocular nystagmus,Q18554169,pathologic nystagmus,Q18558185
+1696,obo.DOID_13174,dissociated nystagmus,Q18554458,pathologic nystagmus,Q18558185
+1697,obo.DOID_9649,congenital nystagmus,Q18558184,pathologic nystagmus,Q18558185
+1698,obo.DOID_13135,exophthalmic ophthalmoplegia,Q18554445,ophthalmoplegia,Q1723331
+1700,obo.DOID_0050864,non-arteritic anterior ischemic optic neuropathy,Q18553521,anterior ischemic optic neuropathy,Q362719
+1707,obo.DOID_0111439,optic atrophy 8,Q55345894,optic atrophy,Q18556970
+1712,obo.DOID_10337,glaucomatous atrophy of optic disc,Q18553842,optic atrophy,Q18556970
+1713,obo.DOID_10627,primary optic atrophy,Q18553905,optic atrophy,Q18556970
+1714,obo.DOID_10631,partial optic atrophy,Q18553906,optic atrophy,Q18556970
+1715,obo.DOID_10175,Optic papillitis,Q7098800,optic neuritis,Q972514
+1716,obo.DOID_1209,nutritional optic neuropathy,Q7830375,optic neuritis,Q972514
+1718,obo.DOID_14155,acute retrobulbar neuritis,Q18554699,optic neuritis,Q972514
+1719,obo.DOID_14555,Foster-Kennedy syndrome,Q751261,Papilledema,Q953049
+1720,obo.DOID_12506,Bell's palsy,Q1135338,facial paralysis,Q7562539
+1721,obo.DOID_9849,Meniere's disease,Q460167,endolymphatic hydrops,Q9376235
+1722,obo.DOID_14248,chronic atticoantral disease,Q18554720,chronic purulent otitis media,Q1088055
+1723,obo.DOID_11557,acute serous otitis media,Q18554108,acute transudative otitis media,Q18556028
+1724,obo.DOID_3696,acute sanguinous otitis media,Q18556027,acute transudative otitis media,Q18556028
+1725,obo.DOID_9736,blue drum syndrome,Q18558206,acute transudative otitis media,Q18556028
+1726,obo.DOID_2000,otosalpingitis,Q4173417,eustachian tube disease,Q18558207
+1727,obo.DOID_12358,patulous eustachian tube,Q1361850,eustachian tube disease,Q18558207
+1728,obo.DOID_13473,central pterygium,Q18554522,progressive peripheral pterygium,Q18554523
+1734,obo.DOID_10235,Brown's tendon sheath syndrome,Q991023,mechanical strabismus,Q18558101
+1735,obo.DOID_10293,monocular esotropia,Q18553835,exotropia,Q2556242
+1736,obo.DOID_9839,accommodative esotropia,Q18558237,exotropia,Q2556242
+1737,obo.DOID_9888,alternating esotropia,Q18558251,exotropia,Q2556242
+1738,obo.DOID_10864,partial third-nerve palsy,Q18553960,paralytic squint,Q18553959
+1739,obo.DOID_10866,total third-nerve palsy,Q18553962,paralytic squint,Q18553959
+1740,obo.DOID_10869,fourth cranial nerve palsy,Q2454612,paralytic squint,Q18553959
+1741,obo.DOID_1142,alternating exotropia,Q18554077,exotropia,Q2556242
+1742,obo.DOID_11853,monocular exotropia,Q18554198,exotropia,Q2556242
+1743,obo.DOID_12668,abnormal retinal correspondence,Q18554360,binocular vision disease,Q18554359
+1744,obo.DOID_0110712,Oguchi disease  type 1,Q7080278,congenital stationary night blindness,Q18553290
+1745,obo.DOID_0110713,Oguchi disease-2,Q32140422,congenital stationary night blindness,Q18553290
+1746,obo.DOID_0110714,congenital stationary night blindness 1G,Q32140436,congenital stationary night blindness,Q18553290
+1749,obo.DOID_0110863,congenital stationary night blindness autosomal dominant 2,Q32143990,congenital stationary night blindness,Q18553290
+1751,obo.DOID_0110865,congenital stationary night blindness 1B,Q32144020,congenital stationary night blindness,Q18553290
+1752,obo.DOID_0110866,congenital stationary night blindness 1H,Q32144035,congenital stationary night blindness,Q18553290
+1754,obo.DOID_0110868,congenital stationary night blindness 1D,Q32144064,congenital stationary night blindness,Q18553290
+1755,obo.DOID_0110869,congenital stationary night blindness 1E,Q32144078,congenital stationary night blindness,Q18553290
+1758,obo.DOID_0060864,patterned macular dystrophy 2,Q32136554,patterned macular dystrophy,Q32136543
+1759,obo.DOID_0060865,patterned macular dystrophy 3,Q32136565,patterned macular dystrophy,Q32136543
+1760,obo.DOID_0060866,patterned macular dystrophy 1,Q32136576,patterned macular dystrophy,Q32136543
+1762,obo.DOID_2569,Drusen,Q1140528,degeneration of macula and posterior pole,Q16678480
+1763,obo.DOID_10873,Kuhnt-Junius degeneration,Q18553965,degeneration of macula and posterior pole,Q16678480
+1764,obo.DOID_13214,hole retinal cyst,Q18554468,degeneration of macula and posterior pole,Q16678480
+1765,obo.DOID_14245,cystoid macular retinal degeneration,Q18554718,degeneration of macula and posterior pole,Q16678480
+1766,obo.DOID_2006,Epiretinal membrane,Q2282783,degeneration of macula and posterior pole,Q16678480
+1767,obo.DOID_9867,toxic maculopathy,Q18558245,degeneration of macula and posterior pole,Q16678480
+1768,obo.DOID_9820,central gyrate choroidal dystrophy,Q18558232,partial central choroid dystrophy,Q18558233
+1769,obo.DOID_11203,Angelucci's syndrome,Q18554033,allergic conjunctivitis,Q471521
+1770,obo.DOID_0111079,birdshot chorioretinopathy,Q4916140,posterior uveitis,Q18554348
+1771,obo.DOID_9383,iridocyclitis,Q145790,anterior uveitis,Q3154357
+1835,obo.DOID_0050561,Lennox-Gastaut syndrome,Q1544884,childhood electroclinical syndrome,Q18553414
+1837,obo.DOID_1825,childhood absence epilepsy,Q2894827,childhood electroclinical syndrome,Q18553414
+1838,obo.DOID_2538,Landau–Kleffner syndrome,Q1636310,childhood electroclinical syndrome,Q18553414
+1839,obo.DOID_3329,benign epilepsy with centrotemporal spikes,Q488214,childhood electroclinical syndrome,Q18553414
+1840,obo.DOID_0060172,juvenile absence epilepsy,Q3726905,adolescence-adult electroclinical syndrome,Q18553415
+1841,obo.DOID_4890,juvenile myoclonic epilepsy,Q543517,adolescence-adult electroclinical syndrome,Q18553415
+1843,obo.DOID_7725,tonic–clonic seizure,Q1406803,adolescence-adult electroclinical syndrome,Q18553415
+1848,obo.DOID_3535,Unverricht-Lundborg syndrome,Q2356131,Progressive myoclonus epilepsy,Q7248853
+1852,obo.DOID_3534,Lafora disease,Q163905,Progressive myoclonus epilepsy,Q7248853
+1853,obo.DOID_2550,tactile epilepsy,Q18555114,reflex epilepsy,Q2895354
+1856,obo.DOID_0060684,autosomal dominant nocturnal frontal lobe epilepsy 3,Q28024503,Autosomal dominant nocturnal frontal lobe epilepsy,Q3589157
+1858,obo.DOID_0060686,autosomal dominant nocturnal frontal lobe epilepsy 5,Q28024505,Autosomal dominant nocturnal frontal lobe epilepsy,Q3589157
+1859,obo.DOID_3982,Meige syndrome,Q693872,cranio-facial dystonia,Q18553510
+1868,obo.DOID_11446,sciatic neuropathy,Q18554084,lesion of sciatic nerve,Q18554334
+1869,obo.DOID_13490,active cochleovestibular Meniere's disease,Q18554526,Meniere's disease,Q460167
+1870,obo.DOID_13491,active vestibular Meniere's disease,Q18554527,Meniere's disease,Q460167
+1871,obo.DOID_13492,active cochlear Meniere's disease,Q18554528,Meniere's disease,Q460167
+1872,obo.DOID_11558,acute allergic serous otitis media,Q18554109,acute serous otitis media,Q18554108
+1873,obo.DOID_3728,acute allergic sanguinous otitis media,Q18556051,acute sanguinous otitis media,Q18556027
+1874,obo.DOID_9735,acute allergic mucoid otitis media,Q18558205,blue drum syndrome,Q18558206
+1875,obo.DOID_10550,acute eustachian salpingitis,Q18553888,otosalpingitis,Q4173417
+1876,obo.DOID_1999,chronic eustachian salpingitis,Q18554960,otosalpingitis,Q4173417
+1877,obo.DOID_0050817,Stargardt disease,Q1317319,age related macular degeneration,Q830308
+1882,obo.DOID_0110019,age related macular degeneration 7,Q27437070,age related macular degeneration,Q830308
+1883,obo.DOID_0110020,age related macular degeneration 8,Q27437071,age related macular degeneration,Q830308
+1887,obo.DOID_0110024,age related macular degeneration 12,Q27437075,age related macular degeneration,Q830308
+1889,obo.DOID_0110026,age related macular degeneration 14,Q27437077,age related macular degeneration,Q830308
+1890,obo.DOID_0110027,age related macular degeneration 15,Q27437078,age related macular degeneration,Q830308
+1892,obo.DOID_0060745,Doyne honeycomb retinal dystrophy,Q28065548,Drusen,Q1140528
+1894,obo.DOID_10443,hypopyon,Q1638140,iridocyclitis,Q145790
+1895,obo.DOID_9378,Posner-Schlossman Syndrome,Q11339151,iridocyclitis,Q145790
+1896,obo.DOID_9384,gonococcal iridocyclitis,Q18558116,iridocyclitis,Q145790
+1897,obo.DOID_9388,lens-induced iridocyclitis,Q18558117,iridocyclitis,Q145790
+1898,obo.DOID_9389,infectious anterior uveitis,Q18558118,iridocyclitis,Q145790
+1899,obo.DOID_0111324,juvenile absence epilepsy,Q3726905,juvenile absence epilepsy,Q3726905
+1902,obo.DOID_0111327,juvenile myoclonic epilepsy,Q543517,juvenile myoclonic epilepsy,Q543517
+1913,obo.DOID_10442,hypopyon ulcer,Q18553866,hypopyon,Q1638140
