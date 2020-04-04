@@ -1,0 +1,22 @@
+,Disorder,wdt_name,qid,hpid
+20,aneurysm,aneurysm,Q189389,obo.MPATH_90
+27,Arachnoid cyst,Arachnoid cyst,Q624590,obo.HP_0100702
+29,Arnold-Chiari malformation,Arnold-Chiari malformation,Q1071707,obo.HP_0002308
+83,Arnold-Chiari malformation,Arnold-Chiari malformation,Q1071707,obo.HP_0002308
+92,Colpocephaly,Colpocephaly,Q5149292,obo.HP_0030048
+111,Septo-optic dysplasia,Septo-optic dysplasia,Q2756703,obo.HP_0100842
+115,Semantic dementia,Semantic dementia,Q18587,obo.HP_0030219
+116,Subcortical dementia,Subcortical dementia,Q48768212,obo.HP_0007123
+117,dementia,dementia,Q83030,obo.NBO_0000268
+134,dystonia,dystonia,Q906492,obo.NBO_0000598
+143,epilepsy,epilepsy,Q41571,obo.NBO_0000642
+158,febrile seizure,febrile seizure,Q127664,obo.NBO_0000678
+180,Hemifacial spasm,Hemifacial spasm,Q1568480,obo.HP_0010828
+213,Arachnoid cyst,Arachnoid cyst,Q624590,obo.HP_0100702
+247,Hemimegalencephaly,Hemimegalencephaly,Q40103033,obo.HP_0007206
+302,Occipital neuralgia,Occipital neuralgia,Q3347239,obo.HP_0012318
+318,Tarlov cyst,Tarlov cyst,Q1648960,obo.HP_0025643
+374,Semantic dementia,Semantic dementia,Q18587,obo.HP_0030219
+375,Septo-optic dysplasia,Septo-optic dysplasia,Q2756703,obo.HP_0100842
+409,Tarlov cyst,Tarlov cyst,Q1648960,obo.HP_0025643
+423,tremor,tremor,Q223907,obo.NBO_0000589
